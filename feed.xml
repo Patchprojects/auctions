@@ -3,23 +3,23 @@
   <channel>
     <title>Online Furniture Auction</title>
     <description>Online Furniture Auction</description>
-    <link>http://localhost:4000/</link>
-    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 19 Mar 2019 08:43:13 -0600</pubDate>
-    <lastBuildDate>Tue, 19 Mar 2019 08:43:13 -0600</lastBuildDate>
+    <link>https://auctions.patchprojects.com/</link>
+    <atom:link href="https://auctions.patchprojects.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Tue, 19 Mar 2019 09:07:28 -0600</pubDate>
+    <lastBuildDate>Tue, 19 Mar 2019 09:07:28 -0600</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>
         <title>Striped Chair</title>
         <description>&lt;hr /&gt; &lt;style type=&quot;text/css&quot; media=&quot;screen&quot;&gt; .container { margin: 0px auto; max-width: 600px; } &lt;/style&gt; &lt;div class=&quot;container&quot;&gt; &lt;p&gt; &lt;b&gt;Auction Rules, Terms, and Conditions:&lt;/b&gt; &lt;ol&gt; &lt;li&gt; The online silent auction will run from 8AM Tuesday, March 19th through 11:59PM Wednesday, March 20th. &lt;/li&gt; &lt;li&gt; The bid price will increase once all availiable quantities of an item have been claimed. All bid participants will be notified of a competing bid/price increase via email by the host. &lt;li&gt; Payment for any purchased items must be received before pickup. Accepted forms of payment include cash, ACH bank transfer, Visa, MasterCard, and American Express.&lt;/li&gt; &lt;li&gt; All...</description>
         <pubDate>Mon, 18 Mar 2019 00:00:00 -0600</pubDate>
-        <link>http://localhost:4000/stripped_chair/</link>
-        <guid isPermaLink="true">http://localhost:4000/stripped_chair/</guid>
+        <link>https://auctions.patchprojects.com/stripped_chair/</link>
+        <guid isPermaLink="true">https://auctions.patchprojects.com/stripped_chair/</guid>
         
         <category>Chairs</category>
         
         
-        <category>Starting Bid: $5</category>
+        <category>Current Bid: $10</category>
         
       </item>
     
@@ -27,8 +27,8 @@
         <title>Pedestal Cabinet</title>
         <description>&lt;hr /&gt; &lt;style type=&quot;text/css&quot; media=&quot;screen&quot;&gt; .container { margin: 0px auto; max-width: 600px; } &lt;/style&gt; &lt;div class=&quot;container&quot;&gt; &lt;p&gt; &lt;b&gt;Auction Rules, Terms, and Conditions:&lt;/b&gt; &lt;ol&gt; &lt;li&gt; The online silent auction will run from 8AM Tuesday, March 19th through 11:59PM Wednesday, March 20th. &lt;/li&gt; &lt;li&gt; The bid price will increase once all availiable quantities of an item have been claimed. All bid participants will be notified of a competing bid/price increase via email by the host. &lt;li&gt; Payment for any purchased items must be received before pickup. Accepted forms of payment include cash, ACH bank transfer, Visa, MasterCard, and American Express.&lt;/li&gt; &lt;li&gt; All...</description>
         <pubDate>Mon, 18 Mar 2019 00:00:00 -0600</pubDate>
-        <link>http://localhost:4000/ped/</link>
-        <guid isPermaLink="true">http://localhost:4000/ped/</guid>
+        <link>https://auctions.patchprojects.com/ped/</link>
+        <guid isPermaLink="true">https://auctions.patchprojects.com/ped/</guid>
         
         <category>Filing</category>
         
@@ -43,8 +43,8 @@
         <title>Table Set with Chairs; Location: Room 2413</title>
         <description>&lt;hr /&gt; &lt;style type=&quot;text/css&quot; media=&quot;screen&quot;&gt; .container { margin: 0px auto; max-width: 600px; } &lt;/style&gt; &lt;div class=&quot;container&quot;&gt; &lt;p&gt; &lt;b&gt;Auction Rules, Terms, and Conditions:&lt;/b&gt; &lt;ol&gt; &lt;li&gt; The online silent auction will run from 8AM Tuesday, March 19th through 11:59PM Wednesday, March 20th. &lt;/li&gt; &lt;li&gt; The bid price will increase once all availiable quantities of an item have been claimed. All bid participants will be notified of a competing bid/price increase via email by the host. &lt;li&gt; Payment for any purchased items must be received before pickup. Accepted forms of payment include cash, ACH bank transfer, Visa, MasterCard, and American Express.&lt;/li&gt; &lt;li&gt; All...</description>
         <pubDate>Mon, 18 Mar 2019 00:00:00 -0600</pubDate>
-        <link>http://localhost:4000/Table_and_chairs_2413/</link>
-        <guid isPermaLink="true">http://localhost:4000/Table_and_chairs_2413/</guid>
+        <link>https://auctions.patchprojects.com/Table_and_chairs_2413/</link>
+        <guid isPermaLink="true">https://auctions.patchprojects.com/Table_and_chairs_2413/</guid>
         
         <category>Tables</category>
         
@@ -59,8 +59,8 @@
         <title>Oval Table</title>
         <description>&lt;hr /&gt; &lt;style type=&quot;text/css&quot; media=&quot;screen&quot;&gt; .container { margin: 0px auto; max-width: 600px; } &lt;/style&gt; &lt;div class=&quot;container&quot;&gt; &lt;p&gt; &lt;b&gt;Auction Rules, Terms, and Conditions:&lt;/b&gt; &lt;ol&gt; &lt;li&gt; The online silent auction will run from 8AM Tuesday, March 19th through 11:59PM Wednesday, March 20th. &lt;/li&gt; &lt;li&gt; The bid price will increase once all availiable quantities of an item have been claimed. All bid participants will be notified of a competing bid/price increase via email by the host. &lt;li&gt; Payment for any purchased items must be received before pickup. Accepted forms of payment include cash, ACH bank transfer, Visa, MasterCard, and American Express.&lt;/li&gt; &lt;li&gt; All...</description>
         <pubDate>Mon, 18 Mar 2019 00:00:00 -0600</pubDate>
-        <link>http://localhost:4000/Table_2423-1/</link>
-        <guid isPermaLink="true">http://localhost:4000/Table_2423-1/</guid>
+        <link>https://auctions.patchprojects.com/Table_2423-1/</link>
+        <guid isPermaLink="true">https://auctions.patchprojects.com/Table_2423-1/</guid>
         
         <category>Tables</category>
         
@@ -73,8 +73,8 @@
         <title>Maple Desk - Full Set</title>
         <description>&lt;hr /&gt; &lt;style type=&quot;text/css&quot; media=&quot;screen&quot;&gt; .container { margin: 0px auto; max-width: 600px; } &lt;/style&gt; &lt;div class=&quot;container&quot;&gt; &lt;p&gt; &lt;b&gt;Auction Rules, Terms, and Conditions:&lt;/b&gt; &lt;ol&gt; &lt;li&gt; The online silent auction will run from 8AM Tuesday, March 19th through 11:59PM Wednesday, March 20th. &lt;/li&gt; &lt;li&gt; The bid price will increase once all availiable quantities of an item have been claimed. All bid participants will be notified of a competing bid/price increase via email by the host. &lt;li&gt; Payment for any purchased items must be received before pickup. Accepted forms of payment include cash, ACH bank transfer, Visa, MasterCard, and American Express.&lt;/li&gt; &lt;li&gt; All...</description>
         <pubDate>Mon, 18 Mar 2019 00:00:00 -0600</pubDate>
-        <link>http://localhost:4000/Spaceco_maple_full_set_3/</link>
-        <guid isPermaLink="true">http://localhost:4000/Spaceco_maple_full_set_3/</guid>
+        <link>https://auctions.patchprojects.com/Spaceco_maple_full_set_3/</link>
+        <guid isPermaLink="true">https://auctions.patchprojects.com/Spaceco_maple_full_set_3/</guid>
         
         <category>Desks</category>
         
@@ -87,8 +87,8 @@
         <title>Maple Full Desk Set</title>
         <description>&lt;hr /&gt; &lt;style type=&quot;text/css&quot; media=&quot;screen&quot;&gt; .container { margin: 0px auto; max-width: 600px; } &lt;/style&gt; &lt;div class=&quot;container&quot;&gt; &lt;p&gt; &lt;b&gt;Auction Rules, Terms, and Conditions:&lt;/b&gt; &lt;ol&gt; &lt;li&gt; The online silent auction will run from 8AM Tuesday, March 19th through 11:59PM Wednesday, March 20th. &lt;/li&gt; &lt;li&gt; The bid price will increase once all availiable quantities of an item have been claimed. All bid participants will be notified of a competing bid/price increase via email by the host. &lt;li&gt; Payment for any purchased items must be received before pickup. Accepted forms of payment include cash, ACH bank transfer, Visa, MasterCard, and American Express.&lt;/li&gt; &lt;li&gt; All...</description>
         <pubDate>Mon, 18 Mar 2019 00:00:00 -0600</pubDate>
-        <link>http://localhost:4000/Spaceco_maple_desk_table_file_2535/</link>
-        <guid isPermaLink="true">http://localhost:4000/Spaceco_maple_desk_table_file_2535/</guid>
+        <link>https://auctions.patchprojects.com/Spaceco_maple_desk_table_file_2535/</link>
+        <guid isPermaLink="true">https://auctions.patchprojects.com/Spaceco_maple_desk_table_file_2535/</guid>
         
         <category>Desks</category>
         
@@ -101,8 +101,8 @@
         <title>Maple Desk - Full Set (Includes File)</title>
         <description>&lt;hr /&gt; &lt;style type=&quot;text/css&quot; media=&quot;screen&quot;&gt; .container { margin: 0px auto; max-width: 600px; } &lt;/style&gt; &lt;div class=&quot;container&quot;&gt; &lt;p&gt; &lt;b&gt;Auction Rules, Terms, and Conditions:&lt;/b&gt; &lt;ol&gt; &lt;li&gt; The online silent auction will run from 8AM Tuesday, March 19th through 11:59PM Wednesday, March 20th. &lt;/li&gt; &lt;li&gt; The bid price will increase once all availiable quantities of an item have been claimed. All bid participants will be notified of a competing bid/price increase via email by the host. &lt;li&gt; Payment for any purchased items must be received before pickup. Accepted forms of payment include cash, ACH bank transfer, Visa, MasterCard, and American Express.&lt;/li&gt; &lt;li&gt; All...</description>
         <pubDate>Mon, 18 Mar 2019 00:00:00 -0600</pubDate>
-        <link>http://localhost:4000/Spaceco_maple_desk_table_file_2532/</link>
-        <guid isPermaLink="true">http://localhost:4000/Spaceco_maple_desk_table_file_2532/</guid>
+        <link>https://auctions.patchprojects.com/Spaceco_maple_desk_table_file_2532/</link>
+        <guid isPermaLink="true">https://auctions.patchprojects.com/Spaceco_maple_desk_table_file_2532/</guid>
         
         <category>Desks</category>
         
@@ -115,8 +115,8 @@
         <title>Green Fabric Side Chairs</title>
         <description>&lt;hr /&gt; &lt;style type=&quot;text/css&quot; media=&quot;screen&quot;&gt; .container { margin: 0px auto; max-width: 600px; } &lt;/style&gt; &lt;div class=&quot;container&quot;&gt; &lt;p&gt; &lt;b&gt;Auction Rules, Terms, and Conditions:&lt;/b&gt; &lt;ol&gt; &lt;li&gt; The online silent auction will run from 8AM Tuesday, March 19th through 11:59PM Wednesday, March 20th. &lt;/li&gt; &lt;li&gt; The bid price will increase once all availiable quantities of an item have been claimed. All bid participants will be notified of a competing bid/price increase via email by the host. &lt;li&gt; Payment for any purchased items must be received before pickup. Accepted forms of payment include cash, ACH bank transfer, Visa, MasterCard, and American Express.&lt;/li&gt; &lt;li&gt; All...</description>
         <pubDate>Mon, 18 Mar 2019 00:00:00 -0600</pubDate>
-        <link>http://localhost:4000/Side_Chairs_green_2305/</link>
-        <guid isPermaLink="true">http://localhost:4000/Side_Chairs_green_2305/</guid>
+        <link>https://auctions.patchprojects.com/Side_Chairs_green_2305/</link>
+        <guid isPermaLink="true">https://auctions.patchprojects.com/Side_Chairs_green_2305/</guid>
         
         <category>Chairs</category>
         
@@ -129,8 +129,8 @@
         <title>Black Side Chairs</title>
         <description>&lt;hr /&gt; &lt;style type=&quot;text/css&quot; media=&quot;screen&quot;&gt; .container { margin: 0px auto; max-width: 600px; } &lt;/style&gt; &lt;div class=&quot;container&quot;&gt; &lt;p&gt; &lt;b&gt;Auction Rules, Terms, and Conditions:&lt;/b&gt; &lt;ol&gt; &lt;li&gt; The online silent auction will run from 8AM Tuesday, March 19th through 11:59PM Wednesday, March 20th. &lt;/li&gt; &lt;li&gt; The bid price will increase once all availiable quantities of an item have been claimed. All bid participants will be notified of a competing bid/price increase via email by the host. &lt;li&gt; Payment for any purchased items must be received before pickup. Accepted forms of payment include cash, ACH bank transfer, Visa, MasterCard, and American Express.&lt;/li&gt; &lt;li&gt; All...</description>
         <pubDate>Mon, 18 Mar 2019 00:00:00 -0600</pubDate>
-        <link>http://localhost:4000/Side_Chairs_Black/</link>
-        <guid isPermaLink="true">http://localhost:4000/Side_Chairs_Black/</guid>
+        <link>https://auctions.patchprojects.com/Side_Chairs_Black/</link>
+        <guid isPermaLink="true">https://auctions.patchprojects.com/Side_Chairs_Black/</guid>
         
         <category>Chairs</category>
         
@@ -143,8 +143,8 @@
         <title>Metal Shelving</title>
         <description>&lt;hr /&gt; &lt;style type=&quot;text/css&quot; media=&quot;screen&quot;&gt; .container { margin: 0px auto; max-width: 600px; } &lt;/style&gt; &lt;div class=&quot;container&quot;&gt; &lt;p&gt; &lt;b&gt;Auction Rules, Terms, and Conditions:&lt;/b&gt; &lt;ol&gt; &lt;li&gt; The online silent auction will run from 8AM Tuesday, March 19th through 11:59PM Wednesday, March 20th. &lt;/li&gt; &lt;li&gt; The bid price will increase once all availiable quantities of an item have been claimed. All bid participants will be notified of a competing bid/price increase via email by the host. &lt;li&gt; Payment for any purchased items must be received before pickup. Accepted forms of payment include cash, ACH bank transfer, Visa, MasterCard, and American Express.&lt;/li&gt; &lt;li&gt; All...</description>
         <pubDate>Mon, 18 Mar 2019 00:00:00 -0600</pubDate>
-        <link>http://localhost:4000/Shelving_2360/</link>
-        <guid isPermaLink="true">http://localhost:4000/Shelving_2360/</guid>
+        <link>https://auctions.patchprojects.com/Shelving_2360/</link>
+        <guid isPermaLink="true">https://auctions.patchprojects.com/Shelving_2360/</guid>
         
         <category>Shelves</category>
         
@@ -157,8 +157,8 @@
         <title>Round Table</title>
         <description>&lt;hr /&gt; &lt;style type=&quot;text/css&quot; media=&quot;screen&quot;&gt; .container { margin: 0px auto; max-width: 600px; } &lt;/style&gt; &lt;div class=&quot;container&quot;&gt; &lt;p&gt; &lt;b&gt;Auction Rules, Terms, and Conditions:&lt;/b&gt; &lt;ol&gt; &lt;li&gt; The online silent auction will run from 8AM Tuesday, March 19th through 11:59PM Wednesday, March 20th. &lt;/li&gt; &lt;li&gt; The bid price will increase once all availiable quantities of an item have been claimed. All bid participants will be notified of a competing bid/price increase via email by the host. &lt;li&gt; Payment for any purchased items must be received before pickup. Accepted forms of payment include cash, ACH bank transfer, Visa, MasterCard, and American Express.&lt;/li&gt; &lt;li&gt; All...</description>
         <pubDate>Mon, 18 Mar 2019 00:00:00 -0600</pubDate>
-        <link>http://localhost:4000/Round_Table_2406/</link>
-        <guid isPermaLink="true">http://localhost:4000/Round_Table_2406/</guid>
+        <link>https://auctions.patchprojects.com/Round_Table_2406/</link>
+        <guid isPermaLink="true">https://auctions.patchprojects.com/Round_Table_2406/</guid>
         
         <category>Tables</category>
         
@@ -171,8 +171,8 @@
         <title>Rolling Door Records Cabinet</title>
         <description>&lt;hr /&gt; &lt;style type=&quot;text/css&quot; media=&quot;screen&quot;&gt; .container { margin: 0px auto; max-width: 600px; } &lt;/style&gt; &lt;div class=&quot;container&quot;&gt; &lt;p&gt; &lt;b&gt;Auction Rules, Terms, and Conditions:&lt;/b&gt; &lt;ol&gt; &lt;li&gt; The online silent auction will run from 8AM Tuesday, March 19th through 11:59PM Wednesday, March 20th. &lt;/li&gt; &lt;li&gt; The bid price will increase once all availiable quantities of an item have been claimed. All bid participants will be notified of a competing bid/price increase via email by the host. &lt;li&gt; Payment for any purchased items must be received before pickup. Accepted forms of payment include cash, ACH bank transfer, Visa, MasterCard, and American Express.&lt;/li&gt; &lt;li&gt; All...</description>
         <pubDate>Mon, 18 Mar 2019 00:00:00 -0600</pubDate>
-        <link>http://localhost:4000/Roller_Door_Cabinet_Records/</link>
-        <guid isPermaLink="true">http://localhost:4000/Roller_Door_Cabinet_Records/</guid>
+        <link>https://auctions.patchprojects.com/Roller_Door_Cabinet_Records/</link>
+        <guid isPermaLink="true">https://auctions.patchprojects.com/Roller_Door_Cabinet_Records/</guid>
         
         <category>Filing</category>
         
@@ -187,8 +187,8 @@
         <title>Artwork</title>
         <description>&lt;hr /&gt; &lt;style type=&quot;text/css&quot; media=&quot;screen&quot;&gt; .container { margin: 0px auto; max-width: 600px; } &lt;/style&gt; &lt;div class=&quot;container&quot;&gt; &lt;p&gt; &lt;b&gt;Auction Rules, Terms, and Conditions:&lt;/b&gt; &lt;ol&gt; &lt;li&gt; The online silent auction will run from 8AM Tuesday, March 19th through 11:59PM Wednesday, March 20th. &lt;/li&gt; &lt;li&gt; The bid price will increase once all availiable quantities of an item have been claimed. All bid participants will be notified of a competing bid/price increase via email by the host. &lt;li&gt; Payment for any purchased items must be received before pickup. Accepted forms of payment include cash, ACH bank transfer, Visa, MasterCard, and American Express.&lt;/li&gt; &lt;li&gt; All...</description>
         <pubDate>Mon, 18 Mar 2019 00:00:00 -0600</pubDate>
-        <link>http://localhost:4000/Picture_2305/</link>
-        <guid isPermaLink="true">http://localhost:4000/Picture_2305/</guid>
+        <link>https://auctions.patchprojects.com/Picture_2305/</link>
+        <guid isPermaLink="true">https://auctions.patchprojects.com/Picture_2305/</guid>
         
         <category>Artwork</category>
         
@@ -201,8 +201,8 @@
         <title>Maple Desk Set</title>
         <description>&lt;hr /&gt; &lt;style type=&quot;text/css&quot; media=&quot;screen&quot;&gt; .container { margin: 0px auto; max-width: 600px; } &lt;/style&gt; &lt;div class=&quot;container&quot;&gt; &lt;p&gt; &lt;b&gt;Auction Rules, Terms, and Conditions:&lt;/b&gt; &lt;ol&gt; &lt;li&gt; The online silent auction will run from 8AM Tuesday, March 19th through 11:59PM Wednesday, March 20th. &lt;/li&gt; &lt;li&gt; The bid price will increase once all availiable quantities of an item have been claimed. All bid participants will be notified of a competing bid/price increase via email by the host. &lt;li&gt; Payment for any purchased items must be received before pickup. Accepted forms of payment include cash, ACH bank transfer, Visa, MasterCard, and American Express.&lt;/li&gt; &lt;li&gt; All...</description>
         <pubDate>Mon, 18 Mar 2019 00:00:00 -0600</pubDate>
-        <link>http://localhost:4000/Kare_maple_full_set_2544/</link>
-        <guid isPermaLink="true">http://localhost:4000/Kare_maple_full_set_2544/</guid>
+        <link>https://auctions.patchprojects.com/Kare_maple_full_set_2544/</link>
+        <guid isPermaLink="true">https://auctions.patchprojects.com/Kare_maple_full_set_2544/</guid>
         
         <category>Desks</category>
         
@@ -215,8 +215,8 @@
         <title>Maple Desk Set</title>
         <description>&lt;hr /&gt; &lt;style type=&quot;text/css&quot; media=&quot;screen&quot;&gt; .container { margin: 0px auto; max-width: 600px; } &lt;/style&gt; &lt;div class=&quot;container&quot;&gt; &lt;p&gt; &lt;b&gt;Auction Rules, Terms, and Conditions:&lt;/b&gt; &lt;ol&gt; &lt;li&gt; The online silent auction will run from 8AM Tuesday, March 19th through 11:59PM Wednesday, March 20th. &lt;/li&gt; &lt;li&gt; The bid price will increase once all availiable quantities of an item have been claimed. All bid participants will be notified of a competing bid/price increase via email by the host. &lt;li&gt; Payment for any purchased items must be received before pickup. Accepted forms of payment include cash, ACH bank transfer, Visa, MasterCard, and American Express.&lt;/li&gt; &lt;li&gt; All...</description>
         <pubDate>Mon, 18 Mar 2019 00:00:00 -0600</pubDate>
-        <link>http://localhost:4000/Kare_maple_full_set_2529/</link>
-        <guid isPermaLink="true">http://localhost:4000/Kare_maple_full_set_2529/</guid>
+        <link>https://auctions.patchprojects.com/Kare_maple_full_set_2529/</link>
+        <guid isPermaLink="true">https://auctions.patchprojects.com/Kare_maple_full_set_2529/</guid>
         
         <category>Desks</category>
         
@@ -229,8 +229,8 @@
         <title>Adjustable Sit/stand Corner Desk</title>
         <description>&lt;hr /&gt; &lt;style type=&quot;text/css&quot; media=&quot;screen&quot;&gt; .container { margin: 0px auto; max-width: 600px; } &lt;/style&gt; &lt;div class=&quot;container&quot;&gt; &lt;p&gt; &lt;b&gt;Auction Rules, Terms, and Conditions:&lt;/b&gt; &lt;ol&gt; &lt;li&gt; The online silent auction will run from 8AM Tuesday, March 19th through 11:59PM Wednesday, March 20th. &lt;/li&gt; &lt;li&gt; The bid price will increase once all availiable quantities of an item have been claimed. All bid participants will be notified of a competing bid/price increase via email by the host. &lt;li&gt; Payment for any purchased items must be received before pickup. Accepted forms of payment include cash, ACH bank transfer, Visa, MasterCard, and American Express.&lt;/li&gt; &lt;li&gt; All...</description>
         <pubDate>Mon, 18 Mar 2019 00:00:00 -0600</pubDate>
-        <link>http://localhost:4000/Kare_desk_table_2503/</link>
-        <guid isPermaLink="true">http://localhost:4000/Kare_desk_table_2503/</guid>
+        <link>https://auctions.patchprojects.com/Kare_desk_table_2503/</link>
+        <guid isPermaLink="true">https://auctions.patchprojects.com/Kare_desk_table_2503/</guid>
         
         <category>Desks</category>
         
@@ -243,8 +243,8 @@
         <title>Kare Blond Desk - Full Set</title>
         <description>&lt;hr /&gt; &lt;style type=&quot;text/css&quot; media=&quot;screen&quot;&gt; .container { margin: 0px auto; max-width: 600px; } &lt;/style&gt; &lt;div class=&quot;container&quot;&gt; &lt;p&gt; &lt;b&gt;Auction Rules, Terms, and Conditions:&lt;/b&gt; &lt;ol&gt; &lt;li&gt; The online silent auction will run from 8AM Tuesday, March 19th through 11:59PM Wednesday, March 20th. &lt;/li&gt; &lt;li&gt; The bid price will increase once all availiable quantities of an item have been claimed. All bid participants will be notified of a competing bid/price increase via email by the host. &lt;li&gt; Payment for any purchased items must be received before pickup. Accepted forms of payment include cash, ACH bank transfer, Visa, MasterCard, and American Express.&lt;/li&gt; &lt;li&gt; All...</description>
         <pubDate>Mon, 18 Mar 2019 00:00:00 -0600</pubDate>
-        <link>http://localhost:4000/Kare_blond_full_set_2566/</link>
-        <guid isPermaLink="true">http://localhost:4000/Kare_blond_full_set_2566/</guid>
+        <link>https://auctions.patchprojects.com/Kare_blond_full_set_2566/</link>
+        <guid isPermaLink="true">https://auctions.patchprojects.com/Kare_blond_full_set_2566/</guid>
         
         <category>Desks</category>
         
@@ -257,8 +257,8 @@
         <title>Jasper Desk - Full Set</title>
         <description>&lt;hr /&gt; &lt;style type=&quot;text/css&quot; media=&quot;screen&quot;&gt; .container { margin: 0px auto; max-width: 600px; } &lt;/style&gt; &lt;div class=&quot;container&quot;&gt; &lt;p&gt; &lt;b&gt;Auction Rules, Terms, and Conditions:&lt;/b&gt; &lt;ol&gt; &lt;li&gt; The online silent auction will run from 8AM Tuesday, March 19th through 11:59PM Wednesday, March 20th. &lt;/li&gt; &lt;li&gt; The bid price will increase once all availiable quantities of an item have been claimed. All bid participants will be notified of a competing bid/price increase via email by the host. &lt;li&gt; Payment for any purchased items must be received before pickup. Accepted forms of payment include cash, ACH bank transfer, Visa, MasterCard, and American Express.&lt;/li&gt; &lt;li&gt; All...</description>
         <pubDate>Mon, 18 Mar 2019 00:00:00 -0600</pubDate>
-        <link>http://localhost:4000/Jasper_full_set_2511/</link>
-        <guid isPermaLink="true">http://localhost:4000/Jasper_full_set_2511/</guid>
+        <link>https://auctions.patchprojects.com/Jasper_full_set_2511/</link>
+        <guid isPermaLink="true">https://auctions.patchprojects.com/Jasper_full_set_2511/</guid>
         
         <category>Desks</category>
         
@@ -271,8 +271,8 @@
         <title>Flip Top Tables</title>
         <description>&lt;hr /&gt; &lt;style type=&quot;text/css&quot; media=&quot;screen&quot;&gt; .container { margin: 0px auto; max-width: 600px; } &lt;/style&gt; &lt;div class=&quot;container&quot;&gt; &lt;p&gt; &lt;b&gt;Auction Rules, Terms, and Conditions:&lt;/b&gt; &lt;ol&gt; &lt;li&gt; The online silent auction will run from 8AM Tuesday, March 19th through 11:59PM Wednesday, March 20th. &lt;/li&gt; &lt;li&gt; The bid price will increase once all availiable quantities of an item have been claimed. All bid participants will be notified of a competing bid/price increase via email by the host. &lt;li&gt; Payment for any purchased items must be received before pickup. Accepted forms of payment include cash, ACH bank transfer, Visa, MasterCard, and American Express.&lt;/li&gt; &lt;li&gt; All...</description>
         <pubDate>Mon, 18 Mar 2019 00:00:00 -0600</pubDate>
-        <link>http://localhost:4000/Flip_Top_Tables_2340/</link>
-        <guid isPermaLink="true">http://localhost:4000/Flip_Top_Tables_2340/</guid>
+        <link>https://auctions.patchprojects.com/Flip_Top_Tables_2340/</link>
+        <guid isPermaLink="true">https://auctions.patchprojects.com/Flip_Top_Tables_2340/</guid>
         
         <category>Tables</category>
         
@@ -285,8 +285,8 @@
         <title>Credenza</title>
         <description>&lt;hr /&gt; &lt;style type=&quot;text/css&quot; media=&quot;screen&quot;&gt; .container { margin: 0px auto; max-width: 600px; } &lt;/style&gt; &lt;div class=&quot;container&quot;&gt; &lt;p&gt; &lt;b&gt;Auction Rules, Terms, and Conditions:&lt;/b&gt; &lt;ol&gt; &lt;li&gt; The online silent auction will run from 8AM Tuesday, March 19th through 11:59PM Wednesday, March 20th. &lt;/li&gt; &lt;li&gt; The bid price will increase once all availiable quantities of an item have been claimed. All bid participants will be notified of a competing bid/price increase via email by the host. &lt;li&gt; Payment for any purchased items must be received before pickup. Accepted forms of payment include cash, ACH bank transfer, Visa, MasterCard, and American Express.&lt;/li&gt; &lt;li&gt; All...</description>
         <pubDate>Mon, 18 Mar 2019 00:00:00 -0600</pubDate>
-        <link>http://localhost:4000/Credenza_2340/</link>
-        <guid isPermaLink="true">http://localhost:4000/Credenza_2340/</guid>
+        <link>https://auctions.patchprojects.com/Credenza_2340/</link>
+        <guid isPermaLink="true">https://auctions.patchprojects.com/Credenza_2340/</guid>
         
         <category>Credenzas</category>
         
@@ -299,8 +299,8 @@
         <title>Conference Room Chairs</title>
         <description>&lt;hr /&gt; &lt;style type=&quot;text/css&quot; media=&quot;screen&quot;&gt; .container { margin: 0px auto; max-width: 600px; } &lt;/style&gt; &lt;div class=&quot;container&quot;&gt; &lt;p&gt; &lt;b&gt;Auction Rules, Terms, and Conditions:&lt;/b&gt; &lt;ol&gt; &lt;li&gt; The online silent auction will run from 8AM Tuesday, March 19th through 11:59PM Wednesday, March 20th. &lt;/li&gt; &lt;li&gt; The bid price will increase once all availiable quantities of an item have been claimed. All bid participants will be notified of a competing bid/price increase via email by the host. &lt;li&gt; Payment for any purchased items must be received before pickup. Accepted forms of payment include cash, ACH bank transfer, Visa, MasterCard, and American Express.&lt;/li&gt; &lt;li&gt; All...</description>
         <pubDate>Mon, 18 Mar 2019 00:00:00 -0600</pubDate>
-        <link>http://localhost:4000/Conference_Chairs_2548/</link>
-        <guid isPermaLink="true">http://localhost:4000/Conference_Chairs_2548/</guid>
+        <link>https://auctions.patchprojects.com/Conference_Chairs_2548/</link>
+        <guid isPermaLink="true">https://auctions.patchprojects.com/Conference_Chairs_2548/</guid>
         
         <category>Chairs</category>
         
@@ -313,8 +313,8 @@
         <title>Two Door Vertical Cabinet</title>
         <description>&lt;hr /&gt; &lt;style type=&quot;text/css&quot; media=&quot;screen&quot;&gt; .container { margin: 0px auto; max-width: 600px; } &lt;/style&gt; &lt;div class=&quot;container&quot;&gt; &lt;p&gt; &lt;b&gt;Auction Rules, Terms, and Conditions:&lt;/b&gt; &lt;ol&gt; &lt;li&gt; The online silent auction will run from 8AM Tuesday, March 19th through 11:59PM Wednesday, March 20th. &lt;/li&gt; &lt;li&gt; The bid price will increase once all availiable quantities of an item have been claimed. All bid participants will be notified of a competing bid/price increase via email by the host. &lt;li&gt; Payment for any purchased items must be received before pickup. Accepted forms of payment include cash, ACH bank transfer, Visa, MasterCard, and American Express.&lt;/li&gt; &lt;li&gt; All...</description>
         <pubDate>Mon, 18 Mar 2019 00:00:00 -0600</pubDate>
-        <link>http://localhost:4000/Cabinet_Records/</link>
-        <guid isPermaLink="true">http://localhost:4000/Cabinet_Records/</guid>
+        <link>https://auctions.patchprojects.com/Cabinet_Records/</link>
+        <guid isPermaLink="true">https://auctions.patchprojects.com/Cabinet_Records/</guid>
         
         <category>Filing</category>
         
@@ -329,13 +329,13 @@
         <title>Bookshelf</title>
         <description>&lt;hr /&gt; &lt;style type=&quot;text/css&quot; media=&quot;screen&quot;&gt; .container { margin: 0px auto; max-width: 600px; } &lt;/style&gt; &lt;div class=&quot;container&quot;&gt; &lt;p&gt; &lt;b&gt;Auction Rules, Terms, and Conditions:&lt;/b&gt; &lt;ol&gt; &lt;li&gt; The online silent auction will run from 8AM Tuesday, March 19th through 11:59PM Wednesday, March 20th. &lt;/li&gt; &lt;li&gt; The bid price will increase once all availiable quantities of an item have been claimed. All bid participants will be notified of a competing bid/price increase via email by the host. &lt;li&gt; Payment for any purchased items must be received before pickup. Accepted forms of payment include cash, ACH bank transfer, Visa, MasterCard, and American Express.&lt;/li&gt; &lt;li&gt; All...</description>
         <pubDate>Mon, 18 Mar 2019 00:00:00 -0600</pubDate>
-        <link>http://localhost:4000/Bookshelf_2413/</link>
-        <guid isPermaLink="true">http://localhost:4000/Bookshelf_2413/</guid>
+        <link>https://auctions.patchprojects.com/Bookshelf_2413/</link>
+        <guid isPermaLink="true">https://auctions.patchprojects.com/Bookshelf_2413/</guid>
         
         <category>Shelves</category>
         
         
-        <category>Starting Bid: $10</category>
+        <category>Current Bid: $15</category>
         
       </item>
     
@@ -343,13 +343,13 @@
         <title>Board Desk Set</title>
         <description>&lt;hr /&gt; &lt;style type=&quot;text/css&quot; media=&quot;screen&quot;&gt; .container { margin: 0px auto; max-width: 600px; } &lt;/style&gt; &lt;div class=&quot;container&quot;&gt; &lt;p&gt; &lt;b&gt;Auction Rules, Terms, and Conditions:&lt;/b&gt; &lt;ol&gt; &lt;li&gt; The online silent auction will run from 8AM Tuesday, March 19th through 11:59PM Wednesday, March 20th. &lt;/li&gt; &lt;li&gt; The bid price will increase once all availiable quantities of an item have been claimed. All bid participants will be notified of a competing bid/price increase via email by the host. &lt;li&gt; Payment for any purchased items must be received before pickup. Accepted forms of payment include cash, ACH bank transfer, Visa, MasterCard, and American Express.&lt;/li&gt; &lt;li&gt; All...</description>
         <pubDate>Mon, 18 Mar 2019 00:00:00 -0600</pubDate>
-        <link>http://localhost:4000/Board_desk_set_2305/</link>
-        <guid isPermaLink="true">http://localhost:4000/Board_desk_set_2305/</guid>
+        <link>https://auctions.patchprojects.com/Board_desk_set_2305/</link>
+        <guid isPermaLink="true">https://auctions.patchprojects.com/Board_desk_set_2305/</guid>
         
         <category>Desks</category>
         
         
-        <category>Current Bid: $25</category>
+        <category>Current Bid: $30</category>
         
       </item>
     
@@ -357,8 +357,8 @@
         <title>Four Drawer Lateral Filing Cabinet</title>
         <description>&lt;hr /&gt; &lt;style type=&quot;text/css&quot; media=&quot;screen&quot;&gt; .container { margin: 0px auto; max-width: 600px; } &lt;/style&gt; &lt;div class=&quot;container&quot;&gt; &lt;p&gt; &lt;b&gt;Auction Rules, Terms, and Conditions:&lt;/b&gt; &lt;ol&gt; &lt;li&gt; The online silent auction will run from 8AM Tuesday, March 19th through 11:59PM Wednesday, March 20th. &lt;/li&gt; &lt;li&gt; The bid price will increase once all availiable quantities of an item have been claimed. All bid participants will be notified of a competing bid/price increase via email by the host. &lt;li&gt; Payment for any purchased items must be received before pickup. Accepted forms of payment include cash, ACH bank transfer, Visa, MasterCard, and American Express.&lt;/li&gt; &lt;li&gt; All...</description>
         <pubDate>Mon, 18 Mar 2019 00:00:00 -0600</pubDate>
-        <link>http://localhost:4000/4_Drawer_Files_Records/</link>
-        <guid isPermaLink="true">http://localhost:4000/4_Drawer_Files_Records/</guid>
+        <link>https://auctions.patchprojects.com/4_Drawer_Files_Records/</link>
+        <guid isPermaLink="true">https://auctions.patchprojects.com/4_Drawer_Files_Records/</guid>
         
         <category>Filing</category>
         
@@ -373,8 +373,8 @@
         <title>2-Drawer Lateral Filing Cabinet</title>
         <description>&lt;hr /&gt; &lt;style type=&quot;text/css&quot; media=&quot;screen&quot;&gt; .container { margin: 0px auto; max-width: 600px; } &lt;/style&gt; &lt;div class=&quot;container&quot;&gt; &lt;p&gt; &lt;b&gt;Auction Rules, Terms, and Conditions:&lt;/b&gt; &lt;ol&gt; &lt;li&gt; The online silent auction will run from 8AM Tuesday, March 19th through 11:59PM Wednesday, March 20th. &lt;/li&gt; &lt;li&gt; The bid price will increase once all availiable quantities of an item have been claimed. All bid participants will be notified of a competing bid/price increase via email by the host. &lt;li&gt; Payment for any purchased items must be received before pickup. Accepted forms of payment include cash, ACH bank transfer, Visa, MasterCard, and American Express.&lt;/li&gt; &lt;li&gt; All...</description>
         <pubDate>Mon, 18 Mar 2019 00:00:00 -0600</pubDate>
-        <link>http://localhost:4000/2_Drawer_Lateral/</link>
-        <guid isPermaLink="true">http://localhost:4000/2_Drawer_Lateral/</guid>
+        <link>https://auctions.patchprojects.com/2_Drawer_Lateral/</link>
+        <guid isPermaLink="true">https://auctions.patchprojects.com/2_Drawer_Lateral/</guid>
         
         <category>Filing</category>
         
