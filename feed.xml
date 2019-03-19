@@ -5,39 +5,13 @@
     <description>Online Furniture Auction</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 18 Mar 2019 22:34:48 -0600</pubDate>
-    <lastBuildDate>Mon, 18 Mar 2019 22:34:48 -0600</lastBuildDate>
+    <pubDate>Tue, 19 Mar 2019 08:43:13 -0600</pubDate>
+    <lastBuildDate>Tue, 19 Mar 2019 08:43:13 -0600</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>
         <title>Striped Chair</title>
-        <description>&lt;hr /&gt;
-&lt;style type=&quot;text/css&quot; media=&quot;screen&quot;&gt;
-  .container {
-    margin: 0px auto;
-    max-width: 600px;
-  }
-&lt;/style&gt;
-
-&lt;div class=&quot;container&quot;&gt;
-
-  &lt;h3&gt;Interested? Need more information?&lt;/h3&gt;
-
-  &lt;div id=&quot;form&quot; class=&quot;contact-form&quot;&gt;
-&lt;form method=&quot;POST&quot; action=&quot;https://formspree.io/auction@patchprojects.com&quot;&gt;
-&lt;label for=&quot;email&quot;&gt;Your Email:&lt;/label&gt;&lt;input type=&quot;email&quot; name=&quot;email&quot; placeholder=&quot;support@patchprojects.com&quot; /&gt;
-&lt;label for=&quot;name&quot;&gt;Your Name:&lt;/label&gt;&lt;input type=&quot;text&quot; name=&quot;name&quot; placeholder=&quot;Johnny Appleseed&quot; /&gt;
-&lt;label for=&quot;quantity&quot;&gt;Quantity:&lt;/label&gt;&lt;input type=&quot;text&quot; name=&quot;quantity&quot; placeholder=&quot;1&quot; /&gt;
-&lt;label for=&quot;bid&quot;&gt;Your Bid Amount:&lt;/label&gt;&lt;input type=&quot;text&quot; name=&quot;bid&quot; placeholder=&quot;$10.00&quot; /&gt;
-&lt;input type=&quot;hidden&quot; value=&quot;Striped Chair&quot; /&gt;
-&lt;label for=&quot;message&quot;&gt;Comments:&lt;/label&gt;&lt;textarea name=&quot;message&quot; placeholder=&quot;Hello-I'm interested in the Striped Chair.&quot;&gt;&lt;/textarea&gt;
-&lt;button type=&quot;submit&quot;&gt;Submit Bid&lt;/button&gt;
-&lt;/form&gt;
-  &lt;/div&gt;
-
-&lt;/div&gt;
-
-</description>
+        <description>&lt;hr /&gt; &lt;style type=&quot;text/css&quot; media=&quot;screen&quot;&gt; .container { margin: 0px auto; max-width: 600px; } &lt;/style&gt; &lt;div class=&quot;container&quot;&gt; &lt;p&gt; &lt;b&gt;Auction Rules, Terms, and Conditions:&lt;/b&gt; &lt;ol&gt; &lt;li&gt; The online silent auction will run from 8AM Tuesday, March 19th through 11:59PM Wednesday, March 20th. &lt;/li&gt; &lt;li&gt; The bid price will increase once all availiable quantities of an item have been claimed. All bid participants will be notified of a competing bid/price increase via email by the host. &lt;li&gt; Payment for any purchased items must be received before pickup. Accepted forms of payment include cash, ACH bank transfer, Visa, MasterCard, and American Express.&lt;/li&gt; &lt;li&gt; All...</description>
         <pubDate>Mon, 18 Mar 2019 00:00:00 -0600</pubDate>
         <link>http://localhost:4000/stripped_chair/</link>
         <guid isPermaLink="true">http://localhost:4000/stripped_chair/</guid>
@@ -45,39 +19,13 @@
         <category>Chairs</category>
         
         
-        <category></category>
+        <category>Starting Bid: $5</category>
         
       </item>
     
       <item>
-        <title>Filing Cabinet</title>
-        <description>&lt;hr /&gt;
-&lt;style type=&quot;text/css&quot; media=&quot;screen&quot;&gt;
-  .container {
-    margin: 0px auto;
-    max-width: 600px;
-  }
-&lt;/style&gt;
-
-&lt;div class=&quot;container&quot;&gt;
-
-  &lt;h3&gt;Interested? Need more information?&lt;/h3&gt;
-
-  &lt;div id=&quot;form&quot; class=&quot;contact-form&quot;&gt;
-&lt;form method=&quot;POST&quot; action=&quot;https://formspree.io/auction@patchprojects.com&quot;&gt;
-&lt;label for=&quot;email&quot;&gt;Your Email:&lt;/label&gt;&lt;input type=&quot;email&quot; name=&quot;email&quot; placeholder=&quot;support@patchprojects.com&quot; /&gt;
-&lt;label for=&quot;name&quot;&gt;Your Name:&lt;/label&gt;&lt;input type=&quot;text&quot; name=&quot;name&quot; placeholder=&quot;Johnny Appleseed&quot; /&gt;
-&lt;label for=&quot;quantity&quot;&gt;Quantity:&lt;/label&gt;&lt;input type=&quot;text&quot; name=&quot;quantity&quot; placeholder=&quot;1&quot; /&gt;
-&lt;label for=&quot;bid&quot;&gt;Your Bid Amount:&lt;/label&gt;&lt;input type=&quot;text&quot; name=&quot;bid&quot; placeholder=&quot;$10.00&quot; /&gt;
-&lt;input type=&quot;hidden&quot; value=&quot;Filing Cabinet&quot; /&gt;
-&lt;label for=&quot;message&quot;&gt;Comments:&lt;/label&gt;&lt;textarea name=&quot;message&quot; placeholder=&quot;Hello-I'm interested in the Filing Cabinet.&quot;&gt;&lt;/textarea&gt;
-&lt;button type=&quot;submit&quot;&gt;Submit Bid&lt;/button&gt;
-&lt;/form&gt;
-  &lt;/div&gt;
-
-&lt;/div&gt;
-
-</description>
+        <title>Pedestal Cabinet</title>
+        <description>&lt;hr /&gt; &lt;style type=&quot;text/css&quot; media=&quot;screen&quot;&gt; .container { margin: 0px auto; max-width: 600px; } &lt;/style&gt; &lt;div class=&quot;container&quot;&gt; &lt;p&gt; &lt;b&gt;Auction Rules, Terms, and Conditions:&lt;/b&gt; &lt;ol&gt; &lt;li&gt; The online silent auction will run from 8AM Tuesday, March 19th through 11:59PM Wednesday, March 20th. &lt;/li&gt; &lt;li&gt; The bid price will increase once all availiable quantities of an item have been claimed. All bid participants will be notified of a competing bid/price increase via email by the host. &lt;li&gt; Payment for any purchased items must be received before pickup. Accepted forms of payment include cash, ACH bank transfer, Visa, MasterCard, and American Express.&lt;/li&gt; &lt;li&gt; All...</description>
         <pubDate>Mon, 18 Mar 2019 00:00:00 -0600</pubDate>
         <link>http://localhost:4000/ped/</link>
         <guid isPermaLink="true">http://localhost:4000/ped/</guid>
@@ -87,39 +35,13 @@
         <category>Cabinets</category>
         
         
-        <category></category>
+        <category>Starting Bid: $5</category>
         
       </item>
     
       <item>
-        <title>Table Set with Chairs</title>
-        <description>&lt;hr /&gt;
-&lt;style type=&quot;text/css&quot; media=&quot;screen&quot;&gt;
-  .container {
-    margin: 0px auto;
-    max-width: 600px;
-  }
-&lt;/style&gt;
-
-&lt;div class=&quot;container&quot;&gt;
-
-  &lt;h3&gt;Interested? Need more information?&lt;/h3&gt;
-
-  &lt;div id=&quot;form&quot; class=&quot;contact-form&quot;&gt;
-&lt;form method=&quot;POST&quot; action=&quot;https://formspree.io/auction@patchprojects.com&quot;&gt;
-&lt;label for=&quot;email&quot;&gt;Your Email:&lt;/label&gt;&lt;input type=&quot;email&quot; name=&quot;email&quot; placeholder=&quot;support@patchprojects.com&quot; /&gt;
-&lt;label for=&quot;name&quot;&gt;Your Name:&lt;/label&gt;&lt;input type=&quot;text&quot; name=&quot;name&quot; placeholder=&quot;Johnny Appleseed&quot; /&gt;
-&lt;label for=&quot;quantity&quot;&gt;Quantity:&lt;/label&gt;&lt;input type=&quot;text&quot; name=&quot;quantity&quot; placeholder=&quot;1&quot; /&gt;
-&lt;label for=&quot;bid&quot;&gt;Your Bid Amount:&lt;/label&gt;&lt;input type=&quot;text&quot; name=&quot;bid&quot; placeholder=&quot;$10.00&quot; /&gt;
-&lt;input type=&quot;hidden&quot; value=&quot;Table Set with Chairs&quot; /&gt;
-&lt;label for=&quot;message&quot;&gt;Comments:&lt;/label&gt;&lt;textarea name=&quot;message&quot; placeholder=&quot;Hello-I'm interested in the Table Set with Chairs.&quot;&gt;&lt;/textarea&gt;
-&lt;button type=&quot;submit&quot;&gt;Submit Bid&lt;/button&gt;
-&lt;/form&gt;
-  &lt;/div&gt;
-
-&lt;/div&gt;
-
-</description>
+        <title>Table Set with Chairs; Location: Room 2413</title>
+        <description>&lt;hr /&gt; &lt;style type=&quot;text/css&quot; media=&quot;screen&quot;&gt; .container { margin: 0px auto; max-width: 600px; } &lt;/style&gt; &lt;div class=&quot;container&quot;&gt; &lt;p&gt; &lt;b&gt;Auction Rules, Terms, and Conditions:&lt;/b&gt; &lt;ol&gt; &lt;li&gt; The online silent auction will run from 8AM Tuesday, March 19th through 11:59PM Wednesday, March 20th. &lt;/li&gt; &lt;li&gt; The bid price will increase once all availiable quantities of an item have been claimed. All bid participants will be notified of a competing bid/price increase via email by the host. &lt;li&gt; Payment for any purchased items must be received before pickup. Accepted forms of payment include cash, ACH bank transfer, Visa, MasterCard, and American Express.&lt;/li&gt; &lt;li&gt; All...</description>
         <pubDate>Mon, 18 Mar 2019 00:00:00 -0600</pubDate>
         <link>http://localhost:4000/Table_and_chairs_2413/</link>
         <guid isPermaLink="true">http://localhost:4000/Table_and_chairs_2413/</guid>
@@ -129,39 +51,13 @@
         <category>Chairs</category>
         
         
-        <category></category>
+        <category>Starting Bid: $20</category>
         
       </item>
     
       <item>
         <title>Oval Table</title>
-        <description>&lt;hr /&gt;
-&lt;style type=&quot;text/css&quot; media=&quot;screen&quot;&gt;
-  .container {
-    margin: 0px auto;
-    max-width: 600px;
-  }
-&lt;/style&gt;
-
-&lt;div class=&quot;container&quot;&gt;
-
-  &lt;h3&gt;Interested? Need more information?&lt;/h3&gt;
-
-  &lt;div id=&quot;form&quot; class=&quot;contact-form&quot;&gt;
-&lt;form method=&quot;POST&quot; action=&quot;https://formspree.io/auction@patchprojects.com&quot;&gt;
-&lt;label for=&quot;email&quot;&gt;Your Email:&lt;/label&gt;&lt;input type=&quot;email&quot; name=&quot;email&quot; placeholder=&quot;support@patchprojects.com&quot; /&gt;
-&lt;label for=&quot;name&quot;&gt;Your Name:&lt;/label&gt;&lt;input type=&quot;text&quot; name=&quot;name&quot; placeholder=&quot;Johnny Appleseed&quot; /&gt;
-&lt;label for=&quot;quantity&quot;&gt;Quantity:&lt;/label&gt;&lt;input type=&quot;text&quot; name=&quot;quantity&quot; placeholder=&quot;1&quot; /&gt;
-&lt;label for=&quot;bid&quot;&gt;Your Bid Amount:&lt;/label&gt;&lt;input type=&quot;text&quot; name=&quot;bid&quot; placeholder=&quot;$10.00&quot; /&gt;
-&lt;input type=&quot;hidden&quot; value=&quot;Oval Table&quot; /&gt;
-&lt;label for=&quot;message&quot;&gt;Comments:&lt;/label&gt;&lt;textarea name=&quot;message&quot; placeholder=&quot;Hello-I'm interested in the Oval Table.&quot;&gt;&lt;/textarea&gt;
-&lt;button type=&quot;submit&quot;&gt;Submit Bid&lt;/button&gt;
-&lt;/form&gt;
-  &lt;/div&gt;
-
-&lt;/div&gt;
-
-</description>
+        <description>&lt;hr /&gt; &lt;style type=&quot;text/css&quot; media=&quot;screen&quot;&gt; .container { margin: 0px auto; max-width: 600px; } &lt;/style&gt; &lt;div class=&quot;container&quot;&gt; &lt;p&gt; &lt;b&gt;Auction Rules, Terms, and Conditions:&lt;/b&gt; &lt;ol&gt; &lt;li&gt; The online silent auction will run from 8AM Tuesday, March 19th through 11:59PM Wednesday, March 20th. &lt;/li&gt; &lt;li&gt; The bid price will increase once all availiable quantities of an item have been claimed. All bid participants will be notified of a competing bid/price increase via email by the host. &lt;li&gt; Payment for any purchased items must be received before pickup. Accepted forms of payment include cash, ACH bank transfer, Visa, MasterCard, and American Express.&lt;/li&gt; &lt;li&gt; All...</description>
         <pubDate>Mon, 18 Mar 2019 00:00:00 -0600</pubDate>
         <link>http://localhost:4000/Table_2423-1/</link>
         <guid isPermaLink="true">http://localhost:4000/Table_2423-1/</guid>
@@ -169,39 +65,13 @@
         <category>Tables</category>
         
         
-        <category></category>
+        <category>Starting Bid: $10</category>
         
       </item>
     
       <item>
         <title>Maple Desk - Full Set</title>
-        <description>&lt;hr /&gt;
-&lt;style type=&quot;text/css&quot; media=&quot;screen&quot;&gt;
-  .container {
-    margin: 0px auto;
-    max-width: 600px;
-  }
-&lt;/style&gt;
-
-&lt;div class=&quot;container&quot;&gt;
-
-  &lt;h3&gt;Interested? Need more information?&lt;/h3&gt;
-
-  &lt;div id=&quot;form&quot; class=&quot;contact-form&quot;&gt;
-&lt;form method=&quot;POST&quot; action=&quot;https://formspree.io/auction@patchprojects.com&quot;&gt;
-&lt;label for=&quot;email&quot;&gt;Your Email:&lt;/label&gt;&lt;input type=&quot;email&quot; name=&quot;email&quot; placeholder=&quot;support@patchprojects.com&quot; /&gt;
-&lt;label for=&quot;name&quot;&gt;Your Name:&lt;/label&gt;&lt;input type=&quot;text&quot; name=&quot;name&quot; placeholder=&quot;Johnny Appleseed&quot; /&gt;
-&lt;label for=&quot;quantity&quot;&gt;Quantity:&lt;/label&gt;&lt;input type=&quot;text&quot; name=&quot;quantity&quot; placeholder=&quot;1&quot; /&gt;
-&lt;label for=&quot;bid&quot;&gt;Your Bid Amount:&lt;/label&gt;&lt;input type=&quot;text&quot; name=&quot;bid&quot; placeholder=&quot;$10.00&quot; /&gt;
-&lt;input type=&quot;hidden&quot; value=&quot;Maple Desk - Full Set&quot; /&gt;
-&lt;label for=&quot;message&quot;&gt;Comments:&lt;/label&gt;&lt;textarea name=&quot;message&quot; placeholder=&quot;Hello-I'm interested in the Maple Desk - Full Set.&quot;&gt;&lt;/textarea&gt;
-&lt;button type=&quot;submit&quot;&gt;Submit Bid&lt;/button&gt;
-&lt;/form&gt;
-  &lt;/div&gt;
-
-&lt;/div&gt;
-
-</description>
+        <description>&lt;hr /&gt; &lt;style type=&quot;text/css&quot; media=&quot;screen&quot;&gt; .container { margin: 0px auto; max-width: 600px; } &lt;/style&gt; &lt;div class=&quot;container&quot;&gt; &lt;p&gt; &lt;b&gt;Auction Rules, Terms, and Conditions:&lt;/b&gt; &lt;ol&gt; &lt;li&gt; The online silent auction will run from 8AM Tuesday, March 19th through 11:59PM Wednesday, March 20th. &lt;/li&gt; &lt;li&gt; The bid price will increase once all availiable quantities of an item have been claimed. All bid participants will be notified of a competing bid/price increase via email by the host. &lt;li&gt; Payment for any purchased items must be received before pickup. Accepted forms of payment include cash, ACH bank transfer, Visa, MasterCard, and American Express.&lt;/li&gt; &lt;li&gt; All...</description>
         <pubDate>Mon, 18 Mar 2019 00:00:00 -0600</pubDate>
         <link>http://localhost:4000/Spaceco_maple_full_set_3/</link>
         <guid isPermaLink="true">http://localhost:4000/Spaceco_maple_full_set_3/</guid>
@@ -209,39 +79,13 @@
         <category>Desks</category>
         
         
-        <category></category>
+        <category>Starting Bid: $25</category>
         
       </item>
     
       <item>
         <title>Maple Full Desk Set</title>
-        <description>&lt;hr /&gt;
-&lt;style type=&quot;text/css&quot; media=&quot;screen&quot;&gt;
-  .container {
-    margin: 0px auto;
-    max-width: 600px;
-  }
-&lt;/style&gt;
-
-&lt;div class=&quot;container&quot;&gt;
-
-  &lt;h3&gt;Interested? Need more information?&lt;/h3&gt;
-
-  &lt;div id=&quot;form&quot; class=&quot;contact-form&quot;&gt;
-&lt;form method=&quot;POST&quot; action=&quot;https://formspree.io/auction@patchprojects.com&quot;&gt;
-&lt;label for=&quot;email&quot;&gt;Your Email:&lt;/label&gt;&lt;input type=&quot;email&quot; name=&quot;email&quot; placeholder=&quot;support@patchprojects.com&quot; /&gt;
-&lt;label for=&quot;name&quot;&gt;Your Name:&lt;/label&gt;&lt;input type=&quot;text&quot; name=&quot;name&quot; placeholder=&quot;Johnny Appleseed&quot; /&gt;
-&lt;label for=&quot;quantity&quot;&gt;Quantity:&lt;/label&gt;&lt;input type=&quot;text&quot; name=&quot;quantity&quot; placeholder=&quot;1&quot; /&gt;
-&lt;label for=&quot;bid&quot;&gt;Your Bid Amount:&lt;/label&gt;&lt;input type=&quot;text&quot; name=&quot;bid&quot; placeholder=&quot;$10.00&quot; /&gt;
-&lt;input type=&quot;hidden&quot; value=&quot;Maple Full Desk Set&quot; /&gt;
-&lt;label for=&quot;message&quot;&gt;Comments:&lt;/label&gt;&lt;textarea name=&quot;message&quot; placeholder=&quot;Hello-I'm interested in the Maple Full Desk Set.&quot;&gt;&lt;/textarea&gt;
-&lt;button type=&quot;submit&quot;&gt;Submit Bid&lt;/button&gt;
-&lt;/form&gt;
-  &lt;/div&gt;
-
-&lt;/div&gt;
-
-</description>
+        <description>&lt;hr /&gt; &lt;style type=&quot;text/css&quot; media=&quot;screen&quot;&gt; .container { margin: 0px auto; max-width: 600px; } &lt;/style&gt; &lt;div class=&quot;container&quot;&gt; &lt;p&gt; &lt;b&gt;Auction Rules, Terms, and Conditions:&lt;/b&gt; &lt;ol&gt; &lt;li&gt; The online silent auction will run from 8AM Tuesday, March 19th through 11:59PM Wednesday, March 20th. &lt;/li&gt; &lt;li&gt; The bid price will increase once all availiable quantities of an item have been claimed. All bid participants will be notified of a competing bid/price increase via email by the host. &lt;li&gt; Payment for any purchased items must be received before pickup. Accepted forms of payment include cash, ACH bank transfer, Visa, MasterCard, and American Express.&lt;/li&gt; &lt;li&gt; All...</description>
         <pubDate>Mon, 18 Mar 2019 00:00:00 -0600</pubDate>
         <link>http://localhost:4000/Spaceco_maple_desk_table_file_2535/</link>
         <guid isPermaLink="true">http://localhost:4000/Spaceco_maple_desk_table_file_2535/</guid>
@@ -249,39 +93,13 @@
         <category>Desks</category>
         
         
-        <category></category>
+        <category>Starting Bid: $25</category>
         
       </item>
     
       <item>
         <title>Maple Desk - Full Set (Includes File)</title>
-        <description>&lt;hr /&gt;
-&lt;style type=&quot;text/css&quot; media=&quot;screen&quot;&gt;
-  .container {
-    margin: 0px auto;
-    max-width: 600px;
-  }
-&lt;/style&gt;
-
-&lt;div class=&quot;container&quot;&gt;
-
-  &lt;h3&gt;Interested? Need more information?&lt;/h3&gt;
-
-  &lt;div id=&quot;form&quot; class=&quot;contact-form&quot;&gt;
-&lt;form method=&quot;POST&quot; action=&quot;https://formspree.io/auction@patchprojects.com&quot;&gt;
-&lt;label for=&quot;email&quot;&gt;Your Email:&lt;/label&gt;&lt;input type=&quot;email&quot; name=&quot;email&quot; placeholder=&quot;support@patchprojects.com&quot; /&gt;
-&lt;label for=&quot;name&quot;&gt;Your Name:&lt;/label&gt;&lt;input type=&quot;text&quot; name=&quot;name&quot; placeholder=&quot;Johnny Appleseed&quot; /&gt;
-&lt;label for=&quot;quantity&quot;&gt;Quantity:&lt;/label&gt;&lt;input type=&quot;text&quot; name=&quot;quantity&quot; placeholder=&quot;1&quot; /&gt;
-&lt;label for=&quot;bid&quot;&gt;Your Bid Amount:&lt;/label&gt;&lt;input type=&quot;text&quot; name=&quot;bid&quot; placeholder=&quot;$10.00&quot; /&gt;
-&lt;input type=&quot;hidden&quot; value=&quot;Maple Desk - Full Set (Includes File)&quot; /&gt;
-&lt;label for=&quot;message&quot;&gt;Comments:&lt;/label&gt;&lt;textarea name=&quot;message&quot; placeholder=&quot;Hello-I'm interested in the Maple Desk - Full Set (Includes File).&quot;&gt;&lt;/textarea&gt;
-&lt;button type=&quot;submit&quot;&gt;Submit Bid&lt;/button&gt;
-&lt;/form&gt;
-  &lt;/div&gt;
-
-&lt;/div&gt;
-
-</description>
+        <description>&lt;hr /&gt; &lt;style type=&quot;text/css&quot; media=&quot;screen&quot;&gt; .container { margin: 0px auto; max-width: 600px; } &lt;/style&gt; &lt;div class=&quot;container&quot;&gt; &lt;p&gt; &lt;b&gt;Auction Rules, Terms, and Conditions:&lt;/b&gt; &lt;ol&gt; &lt;li&gt; The online silent auction will run from 8AM Tuesday, March 19th through 11:59PM Wednesday, March 20th. &lt;/li&gt; &lt;li&gt; The bid price will increase once all availiable quantities of an item have been claimed. All bid participants will be notified of a competing bid/price increase via email by the host. &lt;li&gt; Payment for any purchased items must be received before pickup. Accepted forms of payment include cash, ACH bank transfer, Visa, MasterCard, and American Express.&lt;/li&gt; &lt;li&gt; All...</description>
         <pubDate>Mon, 18 Mar 2019 00:00:00 -0600</pubDate>
         <link>http://localhost:4000/Spaceco_maple_desk_table_file_2532/</link>
         <guid isPermaLink="true">http://localhost:4000/Spaceco_maple_desk_table_file_2532/</guid>
@@ -289,39 +107,13 @@
         <category>Desks</category>
         
         
-        <category></category>
+        <category>Starting Bid: $30</category>
         
       </item>
     
       <item>
         <title>Green Fabric Side Chairs</title>
-        <description>&lt;hr /&gt;
-&lt;style type=&quot;text/css&quot; media=&quot;screen&quot;&gt;
-  .container {
-    margin: 0px auto;
-    max-width: 600px;
-  }
-&lt;/style&gt;
-
-&lt;div class=&quot;container&quot;&gt;
-
-  &lt;h3&gt;Interested? Need more information?&lt;/h3&gt;
-
-  &lt;div id=&quot;form&quot; class=&quot;contact-form&quot;&gt;
-&lt;form method=&quot;POST&quot; action=&quot;https://formspree.io/auction@patchprojects.com&quot;&gt;
-&lt;label for=&quot;email&quot;&gt;Your Email:&lt;/label&gt;&lt;input type=&quot;email&quot; name=&quot;email&quot; placeholder=&quot;support@patchprojects.com&quot; /&gt;
-&lt;label for=&quot;name&quot;&gt;Your Name:&lt;/label&gt;&lt;input type=&quot;text&quot; name=&quot;name&quot; placeholder=&quot;Johnny Appleseed&quot; /&gt;
-&lt;label for=&quot;quantity&quot;&gt;Quantity:&lt;/label&gt;&lt;input type=&quot;text&quot; name=&quot;quantity&quot; placeholder=&quot;1&quot; /&gt;
-&lt;label for=&quot;bid&quot;&gt;Your Bid Amount:&lt;/label&gt;&lt;input type=&quot;text&quot; name=&quot;bid&quot; placeholder=&quot;$10.00&quot; /&gt;
-&lt;input type=&quot;hidden&quot; value=&quot;Green Fabric Side Chairs&quot; /&gt;
-&lt;label for=&quot;message&quot;&gt;Comments:&lt;/label&gt;&lt;textarea name=&quot;message&quot; placeholder=&quot;Hello-I'm interested in the Green Fabric Side Chairs.&quot;&gt;&lt;/textarea&gt;
-&lt;button type=&quot;submit&quot;&gt;Submit Bid&lt;/button&gt;
-&lt;/form&gt;
-  &lt;/div&gt;
-
-&lt;/div&gt;
-
-</description>
+        <description>&lt;hr /&gt; &lt;style type=&quot;text/css&quot; media=&quot;screen&quot;&gt; .container { margin: 0px auto; max-width: 600px; } &lt;/style&gt; &lt;div class=&quot;container&quot;&gt; &lt;p&gt; &lt;b&gt;Auction Rules, Terms, and Conditions:&lt;/b&gt; &lt;ol&gt; &lt;li&gt; The online silent auction will run from 8AM Tuesday, March 19th through 11:59PM Wednesday, March 20th. &lt;/li&gt; &lt;li&gt; The bid price will increase once all availiable quantities of an item have been claimed. All bid participants will be notified of a competing bid/price increase via email by the host. &lt;li&gt; Payment for any purchased items must be received before pickup. Accepted forms of payment include cash, ACH bank transfer, Visa, MasterCard, and American Express.&lt;/li&gt; &lt;li&gt; All...</description>
         <pubDate>Mon, 18 Mar 2019 00:00:00 -0600</pubDate>
         <link>http://localhost:4000/Side_Chairs_green_2305/</link>
         <guid isPermaLink="true">http://localhost:4000/Side_Chairs_green_2305/</guid>
@@ -329,39 +121,13 @@
         <category>Chairs</category>
         
         
-        <category></category>
+        <category>Starting Bid: $5</category>
         
       </item>
     
       <item>
         <title>Black Side Chairs</title>
-        <description>&lt;hr /&gt;
-&lt;style type=&quot;text/css&quot; media=&quot;screen&quot;&gt;
-  .container {
-    margin: 0px auto;
-    max-width: 600px;
-  }
-&lt;/style&gt;
-
-&lt;div class=&quot;container&quot;&gt;
-
-  &lt;h3&gt;Interested? Need more information?&lt;/h3&gt;
-
-  &lt;div id=&quot;form&quot; class=&quot;contact-form&quot;&gt;
-&lt;form method=&quot;POST&quot; action=&quot;https://formspree.io/auction@patchprojects.com&quot;&gt;
-&lt;label for=&quot;email&quot;&gt;Your Email:&lt;/label&gt;&lt;input type=&quot;email&quot; name=&quot;email&quot; placeholder=&quot;support@patchprojects.com&quot; /&gt;
-&lt;label for=&quot;name&quot;&gt;Your Name:&lt;/label&gt;&lt;input type=&quot;text&quot; name=&quot;name&quot; placeholder=&quot;Johnny Appleseed&quot; /&gt;
-&lt;label for=&quot;quantity&quot;&gt;Quantity:&lt;/label&gt;&lt;input type=&quot;text&quot; name=&quot;quantity&quot; placeholder=&quot;1&quot; /&gt;
-&lt;label for=&quot;bid&quot;&gt;Your Bid Amount:&lt;/label&gt;&lt;input type=&quot;text&quot; name=&quot;bid&quot; placeholder=&quot;$10.00&quot; /&gt;
-&lt;input type=&quot;hidden&quot; value=&quot;Black Side Chairs&quot; /&gt;
-&lt;label for=&quot;message&quot;&gt;Comments:&lt;/label&gt;&lt;textarea name=&quot;message&quot; placeholder=&quot;Hello-I'm interested in the Black Side Chairs.&quot;&gt;&lt;/textarea&gt;
-&lt;button type=&quot;submit&quot;&gt;Submit Bid&lt;/button&gt;
-&lt;/form&gt;
-  &lt;/div&gt;
-
-&lt;/div&gt;
-
-</description>
+        <description>&lt;hr /&gt; &lt;style type=&quot;text/css&quot; media=&quot;screen&quot;&gt; .container { margin: 0px auto; max-width: 600px; } &lt;/style&gt; &lt;div class=&quot;container&quot;&gt; &lt;p&gt; &lt;b&gt;Auction Rules, Terms, and Conditions:&lt;/b&gt; &lt;ol&gt; &lt;li&gt; The online silent auction will run from 8AM Tuesday, March 19th through 11:59PM Wednesday, March 20th. &lt;/li&gt; &lt;li&gt; The bid price will increase once all availiable quantities of an item have been claimed. All bid participants will be notified of a competing bid/price increase via email by the host. &lt;li&gt; Payment for any purchased items must be received before pickup. Accepted forms of payment include cash, ACH bank transfer, Visa, MasterCard, and American Express.&lt;/li&gt; &lt;li&gt; All...</description>
         <pubDate>Mon, 18 Mar 2019 00:00:00 -0600</pubDate>
         <link>http://localhost:4000/Side_Chairs_Black/</link>
         <guid isPermaLink="true">http://localhost:4000/Side_Chairs_Black/</guid>
@@ -369,39 +135,13 @@
         <category>Chairs</category>
         
         
-        <category></category>
+        <category>Starting Bid: $1</category>
         
       </item>
     
       <item>
         <title>Metal Shelving</title>
-        <description>&lt;hr /&gt;
-&lt;style type=&quot;text/css&quot; media=&quot;screen&quot;&gt;
-  .container {
-    margin: 0px auto;
-    max-width: 600px;
-  }
-&lt;/style&gt;
-
-&lt;div class=&quot;container&quot;&gt;
-
-  &lt;h3&gt;Interested? Need more information?&lt;/h3&gt;
-
-  &lt;div id=&quot;form&quot; class=&quot;contact-form&quot;&gt;
-&lt;form method=&quot;POST&quot; action=&quot;https://formspree.io/auction@patchprojects.com&quot;&gt;
-&lt;label for=&quot;email&quot;&gt;Your Email:&lt;/label&gt;&lt;input type=&quot;email&quot; name=&quot;email&quot; placeholder=&quot;support@patchprojects.com&quot; /&gt;
-&lt;label for=&quot;name&quot;&gt;Your Name:&lt;/label&gt;&lt;input type=&quot;text&quot; name=&quot;name&quot; placeholder=&quot;Johnny Appleseed&quot; /&gt;
-&lt;label for=&quot;quantity&quot;&gt;Quantity:&lt;/label&gt;&lt;input type=&quot;text&quot; name=&quot;quantity&quot; placeholder=&quot;1&quot; /&gt;
-&lt;label for=&quot;bid&quot;&gt;Your Bid Amount:&lt;/label&gt;&lt;input type=&quot;text&quot; name=&quot;bid&quot; placeholder=&quot;$10.00&quot; /&gt;
-&lt;input type=&quot;hidden&quot; value=&quot;Metal Shelving&quot; /&gt;
-&lt;label for=&quot;message&quot;&gt;Comments:&lt;/label&gt;&lt;textarea name=&quot;message&quot; placeholder=&quot;Hello-I'm interested in the Metal Shelving.&quot;&gt;&lt;/textarea&gt;
-&lt;button type=&quot;submit&quot;&gt;Submit Bid&lt;/button&gt;
-&lt;/form&gt;
-  &lt;/div&gt;
-
-&lt;/div&gt;
-
-</description>
+        <description>&lt;hr /&gt; &lt;style type=&quot;text/css&quot; media=&quot;screen&quot;&gt; .container { margin: 0px auto; max-width: 600px; } &lt;/style&gt; &lt;div class=&quot;container&quot;&gt; &lt;p&gt; &lt;b&gt;Auction Rules, Terms, and Conditions:&lt;/b&gt; &lt;ol&gt; &lt;li&gt; The online silent auction will run from 8AM Tuesday, March 19th through 11:59PM Wednesday, March 20th. &lt;/li&gt; &lt;li&gt; The bid price will increase once all availiable quantities of an item have been claimed. All bid participants will be notified of a competing bid/price increase via email by the host. &lt;li&gt; Payment for any purchased items must be received before pickup. Accepted forms of payment include cash, ACH bank transfer, Visa, MasterCard, and American Express.&lt;/li&gt; &lt;li&gt; All...</description>
         <pubDate>Mon, 18 Mar 2019 00:00:00 -0600</pubDate>
         <link>http://localhost:4000/Shelving_2360/</link>
         <guid isPermaLink="true">http://localhost:4000/Shelving_2360/</guid>
@@ -409,39 +149,13 @@
         <category>Shelves</category>
         
         
-        <category></category>
+        <category>Starting Bid: $10</category>
         
       </item>
     
       <item>
         <title>Round Table</title>
-        <description>&lt;hr /&gt;
-&lt;style type=&quot;text/css&quot; media=&quot;screen&quot;&gt;
-  .container {
-    margin: 0px auto;
-    max-width: 600px;
-  }
-&lt;/style&gt;
-
-&lt;div class=&quot;container&quot;&gt;
-
-  &lt;h3&gt;Interested? Need more information?&lt;/h3&gt;
-
-  &lt;div id=&quot;form&quot; class=&quot;contact-form&quot;&gt;
-&lt;form method=&quot;POST&quot; action=&quot;https://formspree.io/auction@patchprojects.com&quot;&gt;
-&lt;label for=&quot;email&quot;&gt;Your Email:&lt;/label&gt;&lt;input type=&quot;email&quot; name=&quot;email&quot; placeholder=&quot;support@patchprojects.com&quot; /&gt;
-&lt;label for=&quot;name&quot;&gt;Your Name:&lt;/label&gt;&lt;input type=&quot;text&quot; name=&quot;name&quot; placeholder=&quot;Johnny Appleseed&quot; /&gt;
-&lt;label for=&quot;quantity&quot;&gt;Quantity:&lt;/label&gt;&lt;input type=&quot;text&quot; name=&quot;quantity&quot; placeholder=&quot;1&quot; /&gt;
-&lt;label for=&quot;bid&quot;&gt;Your Bid Amount:&lt;/label&gt;&lt;input type=&quot;text&quot; name=&quot;bid&quot; placeholder=&quot;$10.00&quot; /&gt;
-&lt;input type=&quot;hidden&quot; value=&quot;Round Table&quot; /&gt;
-&lt;label for=&quot;message&quot;&gt;Comments:&lt;/label&gt;&lt;textarea name=&quot;message&quot; placeholder=&quot;Hello-I'm interested in the Round Table.&quot;&gt;&lt;/textarea&gt;
-&lt;button type=&quot;submit&quot;&gt;Submit Bid&lt;/button&gt;
-&lt;/form&gt;
-  &lt;/div&gt;
-
-&lt;/div&gt;
-
-</description>
+        <description>&lt;hr /&gt; &lt;style type=&quot;text/css&quot; media=&quot;screen&quot;&gt; .container { margin: 0px auto; max-width: 600px; } &lt;/style&gt; &lt;div class=&quot;container&quot;&gt; &lt;p&gt; &lt;b&gt;Auction Rules, Terms, and Conditions:&lt;/b&gt; &lt;ol&gt; &lt;li&gt; The online silent auction will run from 8AM Tuesday, March 19th through 11:59PM Wednesday, March 20th. &lt;/li&gt; &lt;li&gt; The bid price will increase once all availiable quantities of an item have been claimed. All bid participants will be notified of a competing bid/price increase via email by the host. &lt;li&gt; Payment for any purchased items must be received before pickup. Accepted forms of payment include cash, ACH bank transfer, Visa, MasterCard, and American Express.&lt;/li&gt; &lt;li&gt; All...</description>
         <pubDate>Mon, 18 Mar 2019 00:00:00 -0600</pubDate>
         <link>http://localhost:4000/Round_Table_2406/</link>
         <guid isPermaLink="true">http://localhost:4000/Round_Table_2406/</guid>
@@ -449,39 +163,13 @@
         <category>Tables</category>
         
         
-        <category></category>
+        <category>Starting Bid: $15</category>
         
       </item>
     
       <item>
         <title>Rolling Door Records Cabinet</title>
-        <description>&lt;hr /&gt;
-&lt;style type=&quot;text/css&quot; media=&quot;screen&quot;&gt;
-  .container {
-    margin: 0px auto;
-    max-width: 600px;
-  }
-&lt;/style&gt;
-
-&lt;div class=&quot;container&quot;&gt;
-
-  &lt;h3&gt;Interested? Need more information?&lt;/h3&gt;
-
-  &lt;div id=&quot;form&quot; class=&quot;contact-form&quot;&gt;
-&lt;form method=&quot;POST&quot; action=&quot;https://formspree.io/auction@patchprojects.com&quot;&gt;
-&lt;label for=&quot;email&quot;&gt;Your Email:&lt;/label&gt;&lt;input type=&quot;email&quot; name=&quot;email&quot; placeholder=&quot;support@patchprojects.com&quot; /&gt;
-&lt;label for=&quot;name&quot;&gt;Your Name:&lt;/label&gt;&lt;input type=&quot;text&quot; name=&quot;name&quot; placeholder=&quot;Johnny Appleseed&quot; /&gt;
-&lt;label for=&quot;quantity&quot;&gt;Quantity:&lt;/label&gt;&lt;input type=&quot;text&quot; name=&quot;quantity&quot; placeholder=&quot;1&quot; /&gt;
-&lt;label for=&quot;bid&quot;&gt;Your Bid Amount:&lt;/label&gt;&lt;input type=&quot;text&quot; name=&quot;bid&quot; placeholder=&quot;$10.00&quot; /&gt;
-&lt;input type=&quot;hidden&quot; value=&quot;Rolling Door Records Cabinet&quot; /&gt;
-&lt;label for=&quot;message&quot;&gt;Comments:&lt;/label&gt;&lt;textarea name=&quot;message&quot; placeholder=&quot;Hello-I'm interested in the Rolling Door Records Cabinet.&quot;&gt;&lt;/textarea&gt;
-&lt;button type=&quot;submit&quot;&gt;Submit Bid&lt;/button&gt;
-&lt;/form&gt;
-  &lt;/div&gt;
-
-&lt;/div&gt;
-
-</description>
+        <description>&lt;hr /&gt; &lt;style type=&quot;text/css&quot; media=&quot;screen&quot;&gt; .container { margin: 0px auto; max-width: 600px; } &lt;/style&gt; &lt;div class=&quot;container&quot;&gt; &lt;p&gt; &lt;b&gt;Auction Rules, Terms, and Conditions:&lt;/b&gt; &lt;ol&gt; &lt;li&gt; The online silent auction will run from 8AM Tuesday, March 19th through 11:59PM Wednesday, March 20th. &lt;/li&gt; &lt;li&gt; The bid price will increase once all availiable quantities of an item have been claimed. All bid participants will be notified of a competing bid/price increase via email by the host. &lt;li&gt; Payment for any purchased items must be received before pickup. Accepted forms of payment include cash, ACH bank transfer, Visa, MasterCard, and American Express.&lt;/li&gt; &lt;li&gt; All...</description>
         <pubDate>Mon, 18 Mar 2019 00:00:00 -0600</pubDate>
         <link>http://localhost:4000/Roller_Door_Cabinet_Records/</link>
         <guid isPermaLink="true">http://localhost:4000/Roller_Door_Cabinet_Records/</guid>
@@ -491,40 +179,13 @@
         <category>Cabinets</category>
         
         
-        <category></category>
+        <category>Starting Bid: $20</category>
         
       </item>
     
       <item>
         <title>Artwork</title>
-        <description>&lt;hr /&gt;
-&lt;style type=&quot;text/css&quot; media=&quot;screen&quot;&gt;
-  .container {
-    margin: 0px auto;
-    max-width: 600px;
-  }
-&lt;/style&gt;
-
-&lt;div class=&quot;container&quot;&gt;
-
-  &lt;h3&gt;Interested? Need more information?&lt;/h3&gt;
-
-  &lt;div id=&quot;form&quot; class=&quot;contact-form&quot;&gt;
-&lt;form method=&quot;POST&quot; action=&quot;https://formspree.io/auction@patchprojects.com&quot;&gt;
-&lt;label for=&quot;email&quot;&gt;Your Email:&lt;/label&gt;&lt;input type=&quot;email&quot; name=&quot;email&quot; placeholder=&quot;support@patchprojects.com&quot; /&gt;
-&lt;label for=&quot;name&quot;&gt;Your Name:&lt;/label&gt;&lt;input type=&quot;text&quot; name=&quot;name&quot; placeholder=&quot;Johnny Appleseed&quot; /&gt;
-&lt;label for=&quot;quantity&quot;&gt;Quantity:&lt;/label&gt;&lt;input type=&quot;text&quot; name=&quot;quantity&quot; placeholder=&quot;1&quot; /&gt;
-&lt;label for=&quot;bid&quot;&gt;Your Bid Amount:&lt;/label&gt;&lt;input type=&quot;text&quot; name=&quot;bid&quot; placeholder=&quot;$10.00&quot; /&gt;
-&lt;input type=&quot;hidden&quot; value=&quot;Artwork&quot; /&gt;
-&lt;label for=&quot;message&quot;&gt;Comments:&lt;/label&gt;&lt;textarea name=&quot;message&quot; placeholder=&quot;Hello-I'm interested in the Artwork.&quot;&gt;&lt;/textarea&gt;
-&lt;button type=&quot;submit&quot;&gt;Submit Bid&lt;/button&gt;
-&lt;/form&gt;
-  &lt;/div&gt;
-
-&lt;/div&gt;
-
-&lt;hr /&gt;
-</description>
+        <description>&lt;hr /&gt; &lt;style type=&quot;text/css&quot; media=&quot;screen&quot;&gt; .container { margin: 0px auto; max-width: 600px; } &lt;/style&gt; &lt;div class=&quot;container&quot;&gt; &lt;p&gt; &lt;b&gt;Auction Rules, Terms, and Conditions:&lt;/b&gt; &lt;ol&gt; &lt;li&gt; The online silent auction will run from 8AM Tuesday, March 19th through 11:59PM Wednesday, March 20th. &lt;/li&gt; &lt;li&gt; The bid price will increase once all availiable quantities of an item have been claimed. All bid participants will be notified of a competing bid/price increase via email by the host. &lt;li&gt; Payment for any purchased items must be received before pickup. Accepted forms of payment include cash, ACH bank transfer, Visa, MasterCard, and American Express.&lt;/li&gt; &lt;li&gt; All...</description>
         <pubDate>Mon, 18 Mar 2019 00:00:00 -0600</pubDate>
         <link>http://localhost:4000/Picture_2305/</link>
         <guid isPermaLink="true">http://localhost:4000/Picture_2305/</guid>
@@ -532,39 +193,13 @@
         <category>Artwork</category>
         
         
-        <category></category>
+        <category>Starting Bid: $10</category>
         
       </item>
     
       <item>
         <title>Maple Desk Set</title>
-        <description>&lt;hr /&gt;
-&lt;style type=&quot;text/css&quot; media=&quot;screen&quot;&gt;
-  .container {
-    margin: 0px auto;
-    max-width: 600px;
-  }
-&lt;/style&gt;
-
-&lt;div class=&quot;container&quot;&gt;
-
-  &lt;h3&gt;Interested? Need more information?&lt;/h3&gt;
-
-  &lt;div id=&quot;form&quot; class=&quot;contact-form&quot;&gt;
-&lt;form method=&quot;POST&quot; action=&quot;https://formspree.io/auction@patchprojects.com&quot;&gt;
-&lt;label for=&quot;email&quot;&gt;Your Email:&lt;/label&gt;&lt;input type=&quot;email&quot; name=&quot;email&quot; placeholder=&quot;support@patchprojects.com&quot; /&gt;
-&lt;label for=&quot;name&quot;&gt;Your Name:&lt;/label&gt;&lt;input type=&quot;text&quot; name=&quot;name&quot; placeholder=&quot;Johnny Appleseed&quot; /&gt;
-&lt;label for=&quot;quantity&quot;&gt;Quantity:&lt;/label&gt;&lt;input type=&quot;text&quot; name=&quot;quantity&quot; placeholder=&quot;1&quot; /&gt;
-&lt;label for=&quot;bid&quot;&gt;Your Bid Amount:&lt;/label&gt;&lt;input type=&quot;text&quot; name=&quot;bid&quot; placeholder=&quot;$10.00&quot; /&gt;
-&lt;input type=&quot;hidden&quot; value=&quot;Maple Desk Set&quot; /&gt;
-&lt;label for=&quot;message&quot;&gt;Comments:&lt;/label&gt;&lt;textarea name=&quot;message&quot; placeholder=&quot;Hello-I'm interested in the Maple Desk Set.&quot;&gt;&lt;/textarea&gt;
-&lt;button type=&quot;submit&quot;&gt;Submit Bid&lt;/button&gt;
-&lt;/form&gt;
-  &lt;/div&gt;
-
-&lt;/div&gt;
-
-</description>
+        <description>&lt;hr /&gt; &lt;style type=&quot;text/css&quot; media=&quot;screen&quot;&gt; .container { margin: 0px auto; max-width: 600px; } &lt;/style&gt; &lt;div class=&quot;container&quot;&gt; &lt;p&gt; &lt;b&gt;Auction Rules, Terms, and Conditions:&lt;/b&gt; &lt;ol&gt; &lt;li&gt; The online silent auction will run from 8AM Tuesday, March 19th through 11:59PM Wednesday, March 20th. &lt;/li&gt; &lt;li&gt; The bid price will increase once all availiable quantities of an item have been claimed. All bid participants will be notified of a competing bid/price increase via email by the host. &lt;li&gt; Payment for any purchased items must be received before pickup. Accepted forms of payment include cash, ACH bank transfer, Visa, MasterCard, and American Express.&lt;/li&gt; &lt;li&gt; All...</description>
         <pubDate>Mon, 18 Mar 2019 00:00:00 -0600</pubDate>
         <link>http://localhost:4000/Kare_maple_full_set_2544/</link>
         <guid isPermaLink="true">http://localhost:4000/Kare_maple_full_set_2544/</guid>
@@ -572,39 +207,13 @@
         <category>Desks</category>
         
         
-        <category></category>
+        <category>Starting Bid: $25</category>
         
       </item>
     
       <item>
         <title>Maple Desk Set</title>
-        <description>&lt;hr /&gt;
-&lt;style type=&quot;text/css&quot; media=&quot;screen&quot;&gt;
-  .container {
-    margin: 0px auto;
-    max-width: 600px;
-  }
-&lt;/style&gt;
-
-&lt;div class=&quot;container&quot;&gt;
-
-  &lt;h3&gt;Interested? Need more information?&lt;/h3&gt;
-
-  &lt;div id=&quot;form&quot; class=&quot;contact-form&quot;&gt;
-&lt;form method=&quot;POST&quot; action=&quot;https://formspree.io/auction@patchprojects.com&quot;&gt;
-&lt;label for=&quot;email&quot;&gt;Your Email:&lt;/label&gt;&lt;input type=&quot;email&quot; name=&quot;email&quot; placeholder=&quot;support@patchprojects.com&quot; /&gt;
-&lt;label for=&quot;name&quot;&gt;Your Name:&lt;/label&gt;&lt;input type=&quot;text&quot; name=&quot;name&quot; placeholder=&quot;Johnny Appleseed&quot; /&gt;
-&lt;label for=&quot;quantity&quot;&gt;Quantity:&lt;/label&gt;&lt;input type=&quot;text&quot; name=&quot;quantity&quot; placeholder=&quot;1&quot; /&gt;
-&lt;label for=&quot;bid&quot;&gt;Your Bid Amount:&lt;/label&gt;&lt;input type=&quot;text&quot; name=&quot;bid&quot; placeholder=&quot;$10.00&quot; /&gt;
-&lt;input type=&quot;hidden&quot; value=&quot;Maple Desk Set&quot; /&gt;
-&lt;label for=&quot;message&quot;&gt;Comments:&lt;/label&gt;&lt;textarea name=&quot;message&quot; placeholder=&quot;Hello-I'm interested in the Maple Desk Set.&quot;&gt;&lt;/textarea&gt;
-&lt;button type=&quot;submit&quot;&gt;Submit Bid&lt;/button&gt;
-&lt;/form&gt;
-  &lt;/div&gt;
-
-&lt;/div&gt;
-
-</description>
+        <description>&lt;hr /&gt; &lt;style type=&quot;text/css&quot; media=&quot;screen&quot;&gt; .container { margin: 0px auto; max-width: 600px; } &lt;/style&gt; &lt;div class=&quot;container&quot;&gt; &lt;p&gt; &lt;b&gt;Auction Rules, Terms, and Conditions:&lt;/b&gt; &lt;ol&gt; &lt;li&gt; The online silent auction will run from 8AM Tuesday, March 19th through 11:59PM Wednesday, March 20th. &lt;/li&gt; &lt;li&gt; The bid price will increase once all availiable quantities of an item have been claimed. All bid participants will be notified of a competing bid/price increase via email by the host. &lt;li&gt; Payment for any purchased items must be received before pickup. Accepted forms of payment include cash, ACH bank transfer, Visa, MasterCard, and American Express.&lt;/li&gt; &lt;li&gt; All...</description>
         <pubDate>Mon, 18 Mar 2019 00:00:00 -0600</pubDate>
         <link>http://localhost:4000/Kare_maple_full_set_2529/</link>
         <guid isPermaLink="true">http://localhost:4000/Kare_maple_full_set_2529/</guid>
@@ -612,39 +221,13 @@
         <category>Desks</category>
         
         
-        <category></category>
+        <category>Starting Bid: $25</category>
         
       </item>
     
       <item>
         <title>Adjustable Sit/stand Corner Desk</title>
-        <description>&lt;hr /&gt;
-&lt;style type=&quot;text/css&quot; media=&quot;screen&quot;&gt;
-  .container {
-    margin: 0px auto;
-    max-width: 600px;
-  }
-&lt;/style&gt;
-
-&lt;div class=&quot;container&quot;&gt;
-
-  &lt;h3&gt;Interested? Need more information?&lt;/h3&gt;
-
-  &lt;div id=&quot;form&quot; class=&quot;contact-form&quot;&gt;
-&lt;form method=&quot;POST&quot; action=&quot;https://formspree.io/auction@patchprojects.com&quot;&gt;
-&lt;label for=&quot;email&quot;&gt;Your Email:&lt;/label&gt;&lt;input type=&quot;email&quot; name=&quot;email&quot; placeholder=&quot;support@patchprojects.com&quot; /&gt;
-&lt;label for=&quot;name&quot;&gt;Your Name:&lt;/label&gt;&lt;input type=&quot;text&quot; name=&quot;name&quot; placeholder=&quot;Johnny Appleseed&quot; /&gt;
-&lt;label for=&quot;quantity&quot;&gt;Quantity:&lt;/label&gt;&lt;input type=&quot;text&quot; name=&quot;quantity&quot; placeholder=&quot;1&quot; /&gt;
-&lt;label for=&quot;bid&quot;&gt;Your Bid Amount:&lt;/label&gt;&lt;input type=&quot;text&quot; name=&quot;bid&quot; placeholder=&quot;$10.00&quot; /&gt;
-&lt;input type=&quot;hidden&quot; value=&quot;Adjustable Sit/stand Corner Desk&quot; /&gt;
-&lt;label for=&quot;message&quot;&gt;Comments:&lt;/label&gt;&lt;textarea name=&quot;message&quot; placeholder=&quot;Hello-I'm interested in the Adjustable Sit/stand Corner Desk.&quot;&gt;&lt;/textarea&gt;
-&lt;button type=&quot;submit&quot;&gt;Submit Bid&lt;/button&gt;
-&lt;/form&gt;
-  &lt;/div&gt;
-
-&lt;/div&gt;
-
-</description>
+        <description>&lt;hr /&gt; &lt;style type=&quot;text/css&quot; media=&quot;screen&quot;&gt; .container { margin: 0px auto; max-width: 600px; } &lt;/style&gt; &lt;div class=&quot;container&quot;&gt; &lt;p&gt; &lt;b&gt;Auction Rules, Terms, and Conditions:&lt;/b&gt; &lt;ol&gt; &lt;li&gt; The online silent auction will run from 8AM Tuesday, March 19th through 11:59PM Wednesday, March 20th. &lt;/li&gt; &lt;li&gt; The bid price will increase once all availiable quantities of an item have been claimed. All bid participants will be notified of a competing bid/price increase via email by the host. &lt;li&gt; Payment for any purchased items must be received before pickup. Accepted forms of payment include cash, ACH bank transfer, Visa, MasterCard, and American Express.&lt;/li&gt; &lt;li&gt; All...</description>
         <pubDate>Mon, 18 Mar 2019 00:00:00 -0600</pubDate>
         <link>http://localhost:4000/Kare_desk_table_2503/</link>
         <guid isPermaLink="true">http://localhost:4000/Kare_desk_table_2503/</guid>
@@ -652,39 +235,13 @@
         <category>Desks</category>
         
         
-        <category></category>
+        <category>Starting Bid: $20</category>
         
       </item>
     
       <item>
         <title>Kare Blond Desk - Full Set</title>
-        <description>&lt;hr /&gt;
-&lt;style type=&quot;text/css&quot; media=&quot;screen&quot;&gt;
-  .container {
-    margin: 0px auto;
-    max-width: 600px;
-  }
-&lt;/style&gt;
-
-&lt;div class=&quot;container&quot;&gt;
-
-  &lt;h3&gt;Interested? Need more information?&lt;/h3&gt;
-
-  &lt;div id=&quot;form&quot; class=&quot;contact-form&quot;&gt;
-&lt;form method=&quot;POST&quot; action=&quot;https://formspree.io/auction@patchprojects.com&quot;&gt;
-&lt;label for=&quot;email&quot;&gt;Your Email:&lt;/label&gt;&lt;input type=&quot;email&quot; name=&quot;email&quot; placeholder=&quot;support@patchprojects.com&quot; /&gt;
-&lt;label for=&quot;name&quot;&gt;Your Name:&lt;/label&gt;&lt;input type=&quot;text&quot; name=&quot;name&quot; placeholder=&quot;Johnny Appleseed&quot; /&gt;
-&lt;label for=&quot;quantity&quot;&gt;Quantity:&lt;/label&gt;&lt;input type=&quot;text&quot; name=&quot;quantity&quot; placeholder=&quot;1&quot; /&gt;
-&lt;label for=&quot;bid&quot;&gt;Your Bid Amount:&lt;/label&gt;&lt;input type=&quot;text&quot; name=&quot;bid&quot; placeholder=&quot;$10.00&quot; /&gt;
-&lt;input type=&quot;hidden&quot; value=&quot;Kare Blond Desk - Full Set&quot; /&gt;
-&lt;label for=&quot;message&quot;&gt;Comments:&lt;/label&gt;&lt;textarea name=&quot;message&quot; placeholder=&quot;Hello-I'm interested in the Kare Blond Desk - Full Set.&quot;&gt;&lt;/textarea&gt;
-&lt;button type=&quot;submit&quot;&gt;Submit Bid&lt;/button&gt;
-&lt;/form&gt;
-  &lt;/div&gt;
-
-&lt;/div&gt;
-
-</description>
+        <description>&lt;hr /&gt; &lt;style type=&quot;text/css&quot; media=&quot;screen&quot;&gt; .container { margin: 0px auto; max-width: 600px; } &lt;/style&gt; &lt;div class=&quot;container&quot;&gt; &lt;p&gt; &lt;b&gt;Auction Rules, Terms, and Conditions:&lt;/b&gt; &lt;ol&gt; &lt;li&gt; The online silent auction will run from 8AM Tuesday, March 19th through 11:59PM Wednesday, March 20th. &lt;/li&gt; &lt;li&gt; The bid price will increase once all availiable quantities of an item have been claimed. All bid participants will be notified of a competing bid/price increase via email by the host. &lt;li&gt; Payment for any purchased items must be received before pickup. Accepted forms of payment include cash, ACH bank transfer, Visa, MasterCard, and American Express.&lt;/li&gt; &lt;li&gt; All...</description>
         <pubDate>Mon, 18 Mar 2019 00:00:00 -0600</pubDate>
         <link>http://localhost:4000/Kare_blond_full_set_2566/</link>
         <guid isPermaLink="true">http://localhost:4000/Kare_blond_full_set_2566/</guid>
@@ -692,39 +249,13 @@
         <category>Desks</category>
         
         
-        <category></category>
+        <category>Starting Bid: $25</category>
         
       </item>
     
       <item>
         <title>Jasper Desk - Full Set</title>
-        <description>&lt;hr /&gt;
-&lt;style type=&quot;text/css&quot; media=&quot;screen&quot;&gt;
-  .container {
-    margin: 0px auto;
-    max-width: 600px;
-  }
-&lt;/style&gt;
-
-&lt;div class=&quot;container&quot;&gt;
-
-  &lt;h3&gt;Interested? Need more information?&lt;/h3&gt;
-
-  &lt;div id=&quot;form&quot; class=&quot;contact-form&quot;&gt;
-&lt;form method=&quot;POST&quot; action=&quot;https://formspree.io/auction@patchprojects.com&quot;&gt;
-&lt;label for=&quot;email&quot;&gt;Your Email:&lt;/label&gt;&lt;input type=&quot;email&quot; name=&quot;email&quot; placeholder=&quot;support@patchprojects.com&quot; /&gt;
-&lt;label for=&quot;name&quot;&gt;Your Name:&lt;/label&gt;&lt;input type=&quot;text&quot; name=&quot;name&quot; placeholder=&quot;Johnny Appleseed&quot; /&gt;
-&lt;label for=&quot;quantity&quot;&gt;Quantity:&lt;/label&gt;&lt;input type=&quot;text&quot; name=&quot;quantity&quot; placeholder=&quot;1&quot; /&gt;
-&lt;label for=&quot;bid&quot;&gt;Your Bid Amount:&lt;/label&gt;&lt;input type=&quot;text&quot; name=&quot;bid&quot; placeholder=&quot;$10.00&quot; /&gt;
-&lt;input type=&quot;hidden&quot; value=&quot;Jasper Desk - Full Set&quot; /&gt;
-&lt;label for=&quot;message&quot;&gt;Comments:&lt;/label&gt;&lt;textarea name=&quot;message&quot; placeholder=&quot;Hello-I'm interested in the Jasper Desk - Full Set.&quot;&gt;&lt;/textarea&gt;
-&lt;button type=&quot;submit&quot;&gt;Submit Bid&lt;/button&gt;
-&lt;/form&gt;
-  &lt;/div&gt;
-
-&lt;/div&gt;
-
-</description>
+        <description>&lt;hr /&gt; &lt;style type=&quot;text/css&quot; media=&quot;screen&quot;&gt; .container { margin: 0px auto; max-width: 600px; } &lt;/style&gt; &lt;div class=&quot;container&quot;&gt; &lt;p&gt; &lt;b&gt;Auction Rules, Terms, and Conditions:&lt;/b&gt; &lt;ol&gt; &lt;li&gt; The online silent auction will run from 8AM Tuesday, March 19th through 11:59PM Wednesday, March 20th. &lt;/li&gt; &lt;li&gt; The bid price will increase once all availiable quantities of an item have been claimed. All bid participants will be notified of a competing bid/price increase via email by the host. &lt;li&gt; Payment for any purchased items must be received before pickup. Accepted forms of payment include cash, ACH bank transfer, Visa, MasterCard, and American Express.&lt;/li&gt; &lt;li&gt; All...</description>
         <pubDate>Mon, 18 Mar 2019 00:00:00 -0600</pubDate>
         <link>http://localhost:4000/Jasper_full_set_2511/</link>
         <guid isPermaLink="true">http://localhost:4000/Jasper_full_set_2511/</guid>
@@ -732,39 +263,13 @@
         <category>Desks</category>
         
         
-        <category></category>
+        <category>Starting Bid: $25</category>
         
       </item>
     
       <item>
         <title>Flip Top Tables</title>
-        <description>&lt;hr /&gt;
-&lt;style type=&quot;text/css&quot; media=&quot;screen&quot;&gt;
-  .container {
-    margin: 0px auto;
-    max-width: 600px;
-  }
-&lt;/style&gt;
-
-&lt;div class=&quot;container&quot;&gt;
-
-  &lt;h3&gt;Interested? Need more information?&lt;/h3&gt;
-
-  &lt;div id=&quot;form&quot; class=&quot;contact-form&quot;&gt;
-&lt;form method=&quot;POST&quot; action=&quot;https://formspree.io/auction@patchprojects.com&quot;&gt;
-&lt;label for=&quot;email&quot;&gt;Your Email:&lt;/label&gt;&lt;input type=&quot;email&quot; name=&quot;email&quot; placeholder=&quot;support@patchprojects.com&quot; /&gt;
-&lt;label for=&quot;name&quot;&gt;Your Name:&lt;/label&gt;&lt;input type=&quot;text&quot; name=&quot;name&quot; placeholder=&quot;Johnny Appleseed&quot; /&gt;
-&lt;label for=&quot;quantity&quot;&gt;Quantity:&lt;/label&gt;&lt;input type=&quot;text&quot; name=&quot;quantity&quot; placeholder=&quot;1&quot; /&gt;
-&lt;label for=&quot;bid&quot;&gt;Your Bid Amount:&lt;/label&gt;&lt;input type=&quot;text&quot; name=&quot;bid&quot; placeholder=&quot;$10.00&quot; /&gt;
-&lt;input type=&quot;hidden&quot; value=&quot;Flip Top Tables&quot; /&gt;
-&lt;label for=&quot;message&quot;&gt;Comments:&lt;/label&gt;&lt;textarea name=&quot;message&quot; placeholder=&quot;Hello-I'm interested in the Flip Top Tables.&quot;&gt;&lt;/textarea&gt;
-&lt;button type=&quot;submit&quot;&gt;Submit Bid&lt;/button&gt;
-&lt;/form&gt;
-  &lt;/div&gt;
-
-&lt;/div&gt;
-
-</description>
+        <description>&lt;hr /&gt; &lt;style type=&quot;text/css&quot; media=&quot;screen&quot;&gt; .container { margin: 0px auto; max-width: 600px; } &lt;/style&gt; &lt;div class=&quot;container&quot;&gt; &lt;p&gt; &lt;b&gt;Auction Rules, Terms, and Conditions:&lt;/b&gt; &lt;ol&gt; &lt;li&gt; The online silent auction will run from 8AM Tuesday, March 19th through 11:59PM Wednesday, March 20th. &lt;/li&gt; &lt;li&gt; The bid price will increase once all availiable quantities of an item have been claimed. All bid participants will be notified of a competing bid/price increase via email by the host. &lt;li&gt; Payment for any purchased items must be received before pickup. Accepted forms of payment include cash, ACH bank transfer, Visa, MasterCard, and American Express.&lt;/li&gt; &lt;li&gt; All...</description>
         <pubDate>Mon, 18 Mar 2019 00:00:00 -0600</pubDate>
         <link>http://localhost:4000/Flip_Top_Tables_2340/</link>
         <guid isPermaLink="true">http://localhost:4000/Flip_Top_Tables_2340/</guid>
@@ -772,39 +277,13 @@
         <category>Tables</category>
         
         
-        <category></category>
+        <category>Starting Bid: $10</category>
         
       </item>
     
       <item>
         <title>Credenza</title>
-        <description>&lt;h2 id=&quot;text&quot;&gt;text&lt;/h2&gt;
-&lt;style type=&quot;text/css&quot; media=&quot;screen&quot;&gt;
-  .container {
-    margin: 0px auto;
-    max-width: 600px;
-  }
-&lt;/style&gt;
-
-&lt;div class=&quot;container&quot;&gt;
-
-  &lt;h3&gt;Interested? Need more information?&lt;/h3&gt;
-
-  &lt;div id=&quot;form&quot; class=&quot;contact-form&quot;&gt;
-&lt;form method=&quot;POST&quot; action=&quot;https://formspree.io/auction@patchprojects.com&quot;&gt;
-&lt;label for=&quot;email&quot;&gt;Your Email:&lt;/label&gt;&lt;input type=&quot;email&quot; name=&quot;email&quot; placeholder=&quot;support@patchprojects.com&quot; /&gt;
-&lt;label for=&quot;name&quot;&gt;Your Name:&lt;/label&gt;&lt;input type=&quot;text&quot; name=&quot;name&quot; placeholder=&quot;Johnny Appleseed&quot; /&gt;
-&lt;label for=&quot;quantity&quot;&gt;Quantity:&lt;/label&gt;&lt;input type=&quot;text&quot; name=&quot;quantity&quot; placeholder=&quot;1&quot; /&gt;
-&lt;label for=&quot;bid&quot;&gt;Your Bid Amount:&lt;/label&gt;&lt;input type=&quot;text&quot; name=&quot;bid&quot; placeholder=&quot;$10.00&quot; /&gt;
-&lt;input type=&quot;hidden&quot; value=&quot;Credenza&quot; /&gt;
-&lt;label for=&quot;message&quot;&gt;Comments:&lt;/label&gt;&lt;textarea name=&quot;message&quot; placeholder=&quot;Hello-I'm interested in the Credenza.&quot;&gt;&lt;/textarea&gt;
-&lt;button type=&quot;submit&quot;&gt;Submit Bid&lt;/button&gt;
-&lt;/form&gt;
-  &lt;/div&gt;
-
-&lt;/div&gt;
-
-</description>
+        <description>&lt;hr /&gt; &lt;style type=&quot;text/css&quot; media=&quot;screen&quot;&gt; .container { margin: 0px auto; max-width: 600px; } &lt;/style&gt; &lt;div class=&quot;container&quot;&gt; &lt;p&gt; &lt;b&gt;Auction Rules, Terms, and Conditions:&lt;/b&gt; &lt;ol&gt; &lt;li&gt; The online silent auction will run from 8AM Tuesday, March 19th through 11:59PM Wednesday, March 20th. &lt;/li&gt; &lt;li&gt; The bid price will increase once all availiable quantities of an item have been claimed. All bid participants will be notified of a competing bid/price increase via email by the host. &lt;li&gt; Payment for any purchased items must be received before pickup. Accepted forms of payment include cash, ACH bank transfer, Visa, MasterCard, and American Express.&lt;/li&gt; &lt;li&gt; All...</description>
         <pubDate>Mon, 18 Mar 2019 00:00:00 -0600</pubDate>
         <link>http://localhost:4000/Credenza_2340/</link>
         <guid isPermaLink="true">http://localhost:4000/Credenza_2340/</guid>
@@ -812,40 +291,13 @@
         <category>Credenzas</category>
         
         
-        <category></category>
+        <category>Starting Bid: $15</category>
         
       </item>
     
       <item>
         <title>Conference Room Chairs</title>
-        <description>&lt;h2 id=&quot;text&quot;&gt;Text&lt;/h2&gt;
-&lt;style type=&quot;text/css&quot; media=&quot;screen&quot;&gt;
-  .container {
-    margin: 0px auto;
-    max-width: 600px;
-  }
-&lt;/style&gt;
-
-&lt;div class=&quot;container&quot;&gt;
-
-  &lt;h3&gt;Interested? Need more information?&lt;/h3&gt;
-
-  &lt;div id=&quot;form&quot; class=&quot;contact-form&quot;&gt;
-&lt;form method=&quot;POST&quot; action=&quot;https://formspree.io/auction@patchprojects.com&quot;&gt;
-&lt;label for=&quot;email&quot;&gt;Your Email:&lt;/label&gt;&lt;input type=&quot;email&quot; name=&quot;email&quot; placeholder=&quot;support@patchprojects.com&quot; /&gt;
-&lt;label for=&quot;name&quot;&gt;Your Name:&lt;/label&gt;&lt;input type=&quot;text&quot; name=&quot;name&quot; placeholder=&quot;Johnny Appleseed&quot; /&gt;
-&lt;label for=&quot;quantity&quot;&gt;Quantity:&lt;/label&gt;&lt;input type=&quot;text&quot; name=&quot;quantity&quot; placeholder=&quot;1&quot; /&gt;
-&lt;label for=&quot;bid&quot;&gt;Your Bid Amount:&lt;/label&gt;&lt;input type=&quot;text&quot; name=&quot;bid&quot; placeholder=&quot;$10.00&quot; /&gt;
-&lt;input type=&quot;hidden&quot; value=&quot;Conference Room Chairs&quot; /&gt;
-&lt;label for=&quot;message&quot;&gt;Comments:&lt;/label&gt;&lt;textarea name=&quot;message&quot; placeholder=&quot;Hello-I'm interested in the Conference Room Chairs.&quot;&gt;&lt;/textarea&gt;
-&lt;button type=&quot;submit&quot;&gt;Submit Bid&lt;/button&gt;
-&lt;/form&gt;
-  &lt;/div&gt;
-
-&lt;/div&gt;
-
-&lt;hr /&gt;
-</description>
+        <description>&lt;hr /&gt; &lt;style type=&quot;text/css&quot; media=&quot;screen&quot;&gt; .container { margin: 0px auto; max-width: 600px; } &lt;/style&gt; &lt;div class=&quot;container&quot;&gt; &lt;p&gt; &lt;b&gt;Auction Rules, Terms, and Conditions:&lt;/b&gt; &lt;ol&gt; &lt;li&gt; The online silent auction will run from 8AM Tuesday, March 19th through 11:59PM Wednesday, March 20th. &lt;/li&gt; &lt;li&gt; The bid price will increase once all availiable quantities of an item have been claimed. All bid participants will be notified of a competing bid/price increase via email by the host. &lt;li&gt; Payment for any purchased items must be received before pickup. Accepted forms of payment include cash, ACH bank transfer, Visa, MasterCard, and American Express.&lt;/li&gt; &lt;li&gt; All...</description>
         <pubDate>Mon, 18 Mar 2019 00:00:00 -0600</pubDate>
         <link>http://localhost:4000/Conference_Chairs_2548/</link>
         <guid isPermaLink="true">http://localhost:4000/Conference_Chairs_2548/</guid>
@@ -853,39 +305,13 @@
         <category>Chairs</category>
         
         
-        <category>Starting Bid: $9</category>
+        <category>Starting Bid: $5</category>
         
       </item>
     
       <item>
-        <title>Two Door Records Cabinet</title>
-        <description>&lt;hr /&gt;
-&lt;style type=&quot;text/css&quot; media=&quot;screen&quot;&gt;
-  .container {
-    margin: 0px auto;
-    max-width: 600px;
-  }
-&lt;/style&gt;
-
-&lt;div class=&quot;container&quot;&gt;
-
-  &lt;h3&gt;Interested? Need more information?&lt;/h3&gt;
-
-  &lt;div id=&quot;form&quot; class=&quot;contact-form&quot;&gt;
-&lt;form method=&quot;POST&quot; action=&quot;https://formspree.io/auction@patchprojects.com&quot;&gt;
-&lt;label for=&quot;email&quot;&gt;Your Email:&lt;/label&gt;&lt;input type=&quot;email&quot; name=&quot;email&quot; placeholder=&quot;support@patchprojects.com&quot; /&gt;
-&lt;label for=&quot;name&quot;&gt;Your Name:&lt;/label&gt;&lt;input type=&quot;text&quot; name=&quot;name&quot; placeholder=&quot;Johnny Appleseed&quot; /&gt;
-&lt;label for=&quot;quantity&quot;&gt;Quantity:&lt;/label&gt;&lt;input type=&quot;text&quot; name=&quot;quantity&quot; placeholder=&quot;1&quot; /&gt;
-&lt;label for=&quot;bid&quot;&gt;Your Bid Amount:&lt;/label&gt;&lt;input type=&quot;text&quot; name=&quot;bid&quot; placeholder=&quot;$10.00&quot; /&gt;
-&lt;input type=&quot;hidden&quot; value=&quot;Two Door Records Cabinet&quot; /&gt;
-&lt;label for=&quot;message&quot;&gt;Comments:&lt;/label&gt;&lt;textarea name=&quot;message&quot; placeholder=&quot;Hello-I'm interested in the Two Door Records Cabinet.&quot;&gt;&lt;/textarea&gt;
-&lt;button type=&quot;submit&quot;&gt;Submit Bid&lt;/button&gt;
-&lt;/form&gt;
-  &lt;/div&gt;
-
-&lt;/div&gt;
-
-</description>
+        <title>Two Door Vertical Cabinet</title>
+        <description>&lt;hr /&gt; &lt;style type=&quot;text/css&quot; media=&quot;screen&quot;&gt; .container { margin: 0px auto; max-width: 600px; } &lt;/style&gt; &lt;div class=&quot;container&quot;&gt; &lt;p&gt; &lt;b&gt;Auction Rules, Terms, and Conditions:&lt;/b&gt; &lt;ol&gt; &lt;li&gt; The online silent auction will run from 8AM Tuesday, March 19th through 11:59PM Wednesday, March 20th. &lt;/li&gt; &lt;li&gt; The bid price will increase once all availiable quantities of an item have been claimed. All bid participants will be notified of a competing bid/price increase via email by the host. &lt;li&gt; Payment for any purchased items must be received before pickup. Accepted forms of payment include cash, ACH bank transfer, Visa, MasterCard, and American Express.&lt;/li&gt; &lt;li&gt; All...</description>
         <pubDate>Mon, 18 Mar 2019 00:00:00 -0600</pubDate>
         <link>http://localhost:4000/Cabinet_Records/</link>
         <guid isPermaLink="true">http://localhost:4000/Cabinet_Records/</guid>
@@ -895,13 +321,13 @@
         <category>Cabinets</category>
         
         
-        <category></category>
+        <category>Current Bid: $10</category>
         
       </item>
     
       <item>
         <title>Bookshelf</title>
-        <description>&lt;h2 id=&quot;inline-html-elements&quot;&gt;Inline HTML elements&lt;/h2&gt; &lt;p&gt;HTML defines a long list of available inline tags, a complete list of which can be found on the &lt;a href=&quot;https://developer.mozilla.org/en-US/docs/Web/HTML/Element&quot;&gt;Mozilla Developer Network&lt;/a&gt;.&lt;/p&gt; &lt;ul&gt; &lt;li&gt;&lt;strong&gt;To bold text&lt;/strong&gt;, use &lt;code class=&quot;highlighter-rouge&quot;&gt;&amp;lt;strong&amp;gt;&lt;/code&gt;.&lt;/li&gt; &lt;li&gt;&lt;em&gt;To italicize text&lt;/em&gt;, use &lt;code class=&quot;highlighter-rouge&quot;&gt;&amp;lt;em&amp;gt;&lt;/code&gt;.&lt;/li&gt; &lt;li&gt;Abbreviations, like &lt;abbr title=&quot;HyperText Markup Langage&quot;&gt;HTML&lt;/abbr&gt; should use &lt;code class=&quot;highlighter-rouge&quot;&gt;&amp;lt;abbr&amp;gt;&lt;/code&gt;, with an optional &lt;code class=&quot;highlighter-rouge&quot;&gt;title&lt;/code&gt; attribute for the full phrase.&lt;/li&gt; &lt;li&gt;Citations, like &lt;cite&gt;— Thiago Rossener&lt;/cite&gt;, should use &lt;code class=&quot;highlighter-rouge&quot;&gt;&amp;lt;cite&amp;gt;&lt;/code&gt;.&lt;/li&gt; &lt;li&gt;&lt;del&gt;Deleted&lt;/del&gt; text should use &lt;code class=&quot;highlighter-rouge&quot;&gt;&amp;lt;del&amp;gt;&lt;/code&gt; and &lt;ins&gt;inserted&lt;/ins&gt; text should use &lt;code class=&quot;highlighter-rouge&quot;&gt;&amp;lt;ins&amp;gt;&lt;/code&gt;.&lt;/li&gt; &lt;li&gt;Superscript &lt;sup&gt;text&lt;/sup&gt; uses &lt;code class=&quot;highlighter-rouge&quot;&gt;&amp;lt;sup&amp;gt;&lt;/code&gt; and subscript &lt;sub&gt;text&lt;/sub&gt; uses &lt;code class=&quot;highlighter-rouge&quot;&gt;&amp;lt;sub&amp;gt;&lt;/code&gt;.&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;Most of these elements are styled...</description>
+        <description>&lt;hr /&gt; &lt;style type=&quot;text/css&quot; media=&quot;screen&quot;&gt; .container { margin: 0px auto; max-width: 600px; } &lt;/style&gt; &lt;div class=&quot;container&quot;&gt; &lt;p&gt; &lt;b&gt;Auction Rules, Terms, and Conditions:&lt;/b&gt; &lt;ol&gt; &lt;li&gt; The online silent auction will run from 8AM Tuesday, March 19th through 11:59PM Wednesday, March 20th. &lt;/li&gt; &lt;li&gt; The bid price will increase once all availiable quantities of an item have been claimed. All bid participants will be notified of a competing bid/price increase via email by the host. &lt;li&gt; Payment for any purchased items must be received before pickup. Accepted forms of payment include cash, ACH bank transfer, Visa, MasterCard, and American Express.&lt;/li&gt; &lt;li&gt; All...</description>
         <pubDate>Mon, 18 Mar 2019 00:00:00 -0600</pubDate>
         <link>http://localhost:4000/Bookshelf_2413/</link>
         <guid isPermaLink="true">http://localhost:4000/Bookshelf_2413/</guid>
@@ -909,37 +335,13 @@
         <category>Shelves</category>
         
         
+        <category>Starting Bid: $10</category>
+        
       </item>
     
       <item>
         <title>Board Desk Set</title>
-        <description>&lt;hr /&gt;
-&lt;style type=&quot;text/css&quot; media=&quot;screen&quot;&gt;
-  .container {
-    margin: 0px auto;
-    max-width: 600px;
-  }
-&lt;/style&gt;
-
-&lt;div class=&quot;container&quot;&gt;
-
-  &lt;h3&gt;Interested? Need more information?&lt;/h3&gt;
-
-  &lt;div id=&quot;form&quot; class=&quot;contact-form&quot;&gt;
-&lt;form method=&quot;POST&quot; action=&quot;https://formspree.io/auction@patchprojects.com&quot;&gt;
-&lt;label for=&quot;email&quot;&gt;Your Email:&lt;/label&gt;&lt;input type=&quot;email&quot; name=&quot;email&quot; placeholder=&quot;support@patchprojects.com&quot; /&gt;
-&lt;label for=&quot;name&quot;&gt;Your Name:&lt;/label&gt;&lt;input type=&quot;text&quot; name=&quot;name&quot; placeholder=&quot;Johnny Appleseed&quot; /&gt;
-&lt;label for=&quot;quantity&quot;&gt;Quantity:&lt;/label&gt;&lt;input type=&quot;text&quot; name=&quot;quantity&quot; placeholder=&quot;1&quot; /&gt;
-&lt;label for=&quot;bid&quot;&gt;Your Bid Amount:&lt;/label&gt;&lt;input type=&quot;text&quot; name=&quot;bid&quot; placeholder=&quot;$10.00&quot; /&gt;
-&lt;input type=&quot;hidden&quot; value=&quot;Board Desk Set&quot; /&gt;
-&lt;label for=&quot;message&quot;&gt;Comments:&lt;/label&gt;&lt;textarea name=&quot;message&quot; placeholder=&quot;Hello-I'm interested in the Board Desk Set.&quot;&gt;&lt;/textarea&gt;
-&lt;button type=&quot;submit&quot;&gt;Submit Bid&lt;/button&gt;
-&lt;/form&gt;
-  &lt;/div&gt;
-
-&lt;/div&gt;
-
-</description>
+        <description>&lt;hr /&gt; &lt;style type=&quot;text/css&quot; media=&quot;screen&quot;&gt; .container { margin: 0px auto; max-width: 600px; } &lt;/style&gt; &lt;div class=&quot;container&quot;&gt; &lt;p&gt; &lt;b&gt;Auction Rules, Terms, and Conditions:&lt;/b&gt; &lt;ol&gt; &lt;li&gt; The online silent auction will run from 8AM Tuesday, March 19th through 11:59PM Wednesday, March 20th. &lt;/li&gt; &lt;li&gt; The bid price will increase once all availiable quantities of an item have been claimed. All bid participants will be notified of a competing bid/price increase via email by the host. &lt;li&gt; Payment for any purchased items must be received before pickup. Accepted forms of payment include cash, ACH bank transfer, Visa, MasterCard, and American Express.&lt;/li&gt; &lt;li&gt; All...</description>
         <pubDate>Mon, 18 Mar 2019 00:00:00 -0600</pubDate>
         <link>http://localhost:4000/Board_desk_set_2305/</link>
         <guid isPermaLink="true">http://localhost:4000/Board_desk_set_2305/</guid>
@@ -947,39 +349,13 @@
         <category>Desks</category>
         
         
-        <category></category>
+        <category>Current Bid: $25</category>
         
       </item>
     
       <item>
         <title>Four Drawer Lateral Filing Cabinet</title>
-        <description>&lt;hr /&gt;
-&lt;style type=&quot;text/css&quot; media=&quot;screen&quot;&gt;
-  .container {
-    margin: 0px auto;
-    max-width: 600px;
-  }
-&lt;/style&gt;
-
-&lt;div class=&quot;container&quot;&gt;
-
-  &lt;h3&gt;Interested? Need more information?&lt;/h3&gt;
-
-  &lt;div id=&quot;form&quot; class=&quot;contact-form&quot;&gt;
-&lt;form method=&quot;POST&quot; action=&quot;https://formspree.io/auction@patchprojects.com&quot;&gt;
-&lt;label for=&quot;email&quot;&gt;Your Email:&lt;/label&gt;&lt;input type=&quot;email&quot; name=&quot;email&quot; placeholder=&quot;support@patchprojects.com&quot; /&gt;
-&lt;label for=&quot;name&quot;&gt;Your Name:&lt;/label&gt;&lt;input type=&quot;text&quot; name=&quot;name&quot; placeholder=&quot;Johnny Appleseed&quot; /&gt;
-&lt;label for=&quot;quantity&quot;&gt;Quantity:&lt;/label&gt;&lt;input type=&quot;text&quot; name=&quot;quantity&quot; placeholder=&quot;1&quot; /&gt;
-&lt;label for=&quot;bid&quot;&gt;Your Bid Amount:&lt;/label&gt;&lt;input type=&quot;text&quot; name=&quot;bid&quot; placeholder=&quot;$10.00&quot; /&gt;
-&lt;input type=&quot;hidden&quot; value=&quot;Four Drawer Lateral Filing Cabinet&quot; /&gt;
-&lt;label for=&quot;message&quot;&gt;Comments:&lt;/label&gt;&lt;textarea name=&quot;message&quot; placeholder=&quot;Hello-I'm interested in the Four Drawer Lateral Filing Cabinet.&quot;&gt;&lt;/textarea&gt;
-&lt;button type=&quot;submit&quot;&gt;Submit Bid&lt;/button&gt;
-&lt;/form&gt;
-  &lt;/div&gt;
-
-&lt;/div&gt;
-
-</description>
+        <description>&lt;hr /&gt; &lt;style type=&quot;text/css&quot; media=&quot;screen&quot;&gt; .container { margin: 0px auto; max-width: 600px; } &lt;/style&gt; &lt;div class=&quot;container&quot;&gt; &lt;p&gt; &lt;b&gt;Auction Rules, Terms, and Conditions:&lt;/b&gt; &lt;ol&gt; &lt;li&gt; The online silent auction will run from 8AM Tuesday, March 19th through 11:59PM Wednesday, March 20th. &lt;/li&gt; &lt;li&gt; The bid price will increase once all availiable quantities of an item have been claimed. All bid participants will be notified of a competing bid/price increase via email by the host. &lt;li&gt; Payment for any purchased items must be received before pickup. Accepted forms of payment include cash, ACH bank transfer, Visa, MasterCard, and American Express.&lt;/li&gt; &lt;li&gt; All...</description>
         <pubDate>Mon, 18 Mar 2019 00:00:00 -0600</pubDate>
         <link>http://localhost:4000/4_Drawer_Files_Records/</link>
         <guid isPermaLink="true">http://localhost:4000/4_Drawer_Files_Records/</guid>
@@ -989,42 +365,13 @@
         <category>Cabinets</category>
         
         
-        <category></category>
+        <category>Starting Bid: $10</category>
         
       </item>
     
       <item>
-        <title>Dual Drawer Lateral Filing Cabinet</title>
-        <description>&lt;p&gt;Yis.&lt;/p&gt;
-
-&lt;hr /&gt;
-&lt;style type=&quot;text/css&quot; media=&quot;screen&quot;&gt;
-  .container {
-    margin: 0px auto;
-    max-width: 600px;
-  }
-&lt;/style&gt;
-
-&lt;div class=&quot;container&quot;&gt;
-
-  &lt;h3&gt;Interested? Need more information?&lt;/h3&gt;
-
-  &lt;div id=&quot;form&quot; class=&quot;contact-form&quot;&gt;
-&lt;form method=&quot;POST&quot; action=&quot;https://formspree.io/auction@patchprojects.com&quot;&gt;
-&lt;label for=&quot;email&quot;&gt;Your Email:&lt;/label&gt;&lt;input type=&quot;email&quot; name=&quot;email&quot; placeholder=&quot;support@patchprojects.com&quot; /&gt;
-&lt;label for=&quot;name&quot;&gt;Your Name:&lt;/label&gt;&lt;input type=&quot;text&quot; name=&quot;name&quot; placeholder=&quot;Johnny Appleseed&quot; /&gt;
-&lt;label for=&quot;quantity&quot;&gt;Quantity:&lt;/label&gt;&lt;input type=&quot;text&quot; name=&quot;quantity&quot; placeholder=&quot;1&quot; /&gt;
-&lt;label for=&quot;bid&quot;&gt;Your Bid Amount:&lt;/label&gt;&lt;input type=&quot;text&quot; name=&quot;bid&quot; placeholder=&quot;$10.00&quot; /&gt;
-&lt;input type=&quot;hidden&quot; value=&quot;Dual Drawer Lateral Filing Cabinet&quot; /&gt;
-&lt;label for=&quot;message&quot;&gt;Comments:&lt;/label&gt;&lt;textarea name=&quot;message&quot; placeholder=&quot;Hello-I'm interested in the Dual Drawer Lateral Filing Cabinet.&quot;&gt;&lt;/textarea&gt;
-&lt;button type=&quot;submit&quot;&gt;Submit Bid&lt;/button&gt;
-&lt;/form&gt;
-  &lt;/div&gt;
-
-&lt;/div&gt;
-
-&lt;hr /&gt;
-</description>
+        <title>2-Drawer Lateral Filing Cabinet</title>
+        <description>&lt;hr /&gt; &lt;style type=&quot;text/css&quot; media=&quot;screen&quot;&gt; .container { margin: 0px auto; max-width: 600px; } &lt;/style&gt; &lt;div class=&quot;container&quot;&gt; &lt;p&gt; &lt;b&gt;Auction Rules, Terms, and Conditions:&lt;/b&gt; &lt;ol&gt; &lt;li&gt; The online silent auction will run from 8AM Tuesday, March 19th through 11:59PM Wednesday, March 20th. &lt;/li&gt; &lt;li&gt; The bid price will increase once all availiable quantities of an item have been claimed. All bid participants will be notified of a competing bid/price increase via email by the host. &lt;li&gt; Payment for any purchased items must be received before pickup. Accepted forms of payment include cash, ACH bank transfer, Visa, MasterCard, and American Express.&lt;/li&gt; &lt;li&gt; All...</description>
         <pubDate>Mon, 18 Mar 2019 00:00:00 -0600</pubDate>
         <link>http://localhost:4000/2_Drawer_Lateral/</link>
         <guid isPermaLink="true">http://localhost:4000/2_Drawer_Lateral/</guid>
@@ -1033,6 +380,8 @@
         
         <category>Cabinets</category>
         
+        
+        <category>Starting Bid: $5</category>
         
       </item>
     

@@ -3,23 +3,23 @@
     {
       "title"    : "Striped Chair",
       "tags"     : "Chairs",
-      "categories" : "",
+      "categories" : "Starting Bid: $5",
       "url"      : "/stripped_chair/",
       "date"     : "03/18/2019"
     } ,
   
     {
-      "title"    : "Filing Cabinet",
+      "title"    : "Pedestal Cabinet",
       "tags"     : "Filing and Cabinets",
-      "categories" : "",
+      "categories" : "Starting Bid: $5",
       "url"      : "/ped/",
       "date"     : "03/18/2019"
     } ,
   
     {
-      "title"    : "Table Set with Chairs",
+      "title"    : "Table Set with Chairs; Location: Room 2413",
       "tags"     : "Tables and Chairs",
-      "categories" : "",
+      "categories" : "Starting Bid: $20",
       "url"      : "/Table_and_chairs_2413/",
       "date"     : "03/18/2019"
     } ,
@@ -27,7 +27,7 @@
     {
       "title"    : "Oval Table",
       "tags"     : "Tables",
-      "categories" : "",
+      "categories" : "Starting Bid: $10",
       "url"      : "/Table_2423-1/",
       "date"     : "03/18/2019"
     } ,
@@ -35,7 +35,7 @@
     {
       "title"    : "Maple Desk - Full Set",
       "tags"     : "Desks",
-      "categories" : "",
+      "categories" : "Starting Bid: $25",
       "url"      : "/Spaceco_maple_full_set_3/",
       "date"     : "03/18/2019"
     } ,
@@ -43,7 +43,7 @@
     {
       "title"    : "Maple Full Desk Set",
       "tags"     : "Desks",
-      "categories" : "",
+      "categories" : "Starting Bid: $25",
       "url"      : "/Spaceco_maple_desk_table_file_2535/",
       "date"     : "03/18/2019"
     } ,
@@ -51,7 +51,7 @@
     {
       "title"    : "Maple Desk - Full Set (Includes File)",
       "tags"     : "Desks",
-      "categories" : "",
+      "categories" : "Starting Bid: $30",
       "url"      : "/Spaceco_maple_desk_table_file_2532/",
       "date"     : "03/18/2019"
     } ,
@@ -59,7 +59,7 @@
     {
       "title"    : "Green Fabric Side Chairs",
       "tags"     : "Chairs",
-      "categories" : "",
+      "categories" : "Starting Bid: $5",
       "url"      : "/Side_Chairs_green_2305/",
       "date"     : "03/18/2019"
     } ,
@@ -67,7 +67,7 @@
     {
       "title"    : "Black Side Chairs",
       "tags"     : "Chairs",
-      "categories" : "",
+      "categories" : "Starting Bid: $1",
       "url"      : "/Side_Chairs_Black/",
       "date"     : "03/18/2019"
     } ,
@@ -75,7 +75,7 @@
     {
       "title"    : "Metal Shelving",
       "tags"     : "Shelves",
-      "categories" : "",
+      "categories" : "Starting Bid: $10",
       "url"      : "/Shelving_2360/",
       "date"     : "03/18/2019"
     } ,
@@ -83,7 +83,7 @@
     {
       "title"    : "Round Table",
       "tags"     : "Tables",
-      "categories" : "",
+      "categories" : "Starting Bid: $15",
       "url"      : "/Round_Table_2406/",
       "date"     : "03/18/2019"
     } ,
@@ -91,7 +91,7 @@
     {
       "title"    : "Rolling Door Records Cabinet",
       "tags"     : "Filing and Cabinets",
-      "categories" : "",
+      "categories" : "Starting Bid: $20",
       "url"      : "/Roller_Door_Cabinet_Records/",
       "date"     : "03/18/2019"
     } ,
@@ -99,7 +99,7 @@
     {
       "title"    : "Artwork",
       "tags"     : "Artwork",
-      "categories" : "",
+      "categories" : "Starting Bid: $10",
       "url"      : "/Picture_2305/",
       "date"     : "03/18/2019"
     } ,
@@ -107,7 +107,7 @@
     {
       "title"    : "Maple Desk Set",
       "tags"     : "Desks",
-      "categories" : "",
+      "categories" : "Starting Bid: $25",
       "url"      : "/Kare_maple_full_set_2544/",
       "date"     : "03/18/2019"
     } ,
@@ -115,7 +115,7 @@
     {
       "title"    : "Maple Desk Set",
       "tags"     : "Desks",
-      "categories" : "",
+      "categories" : "Starting Bid: $25",
       "url"      : "/Kare_maple_full_set_2529/",
       "date"     : "03/18/2019"
     } ,
@@ -123,7 +123,7 @@
     {
       "title"    : "Adjustable Sit/stand Corner Desk",
       "tags"     : "Desks",
-      "categories" : "",
+      "categories" : "Starting Bid: $20",
       "url"      : "/Kare_desk_table_2503/",
       "date"     : "03/18/2019"
     } ,
@@ -131,7 +131,7 @@
     {
       "title"    : "Kare Blond Desk - Full Set",
       "tags"     : "Desks",
-      "categories" : "",
+      "categories" : "Starting Bid: $25",
       "url"      : "/Kare_blond_full_set_2566/",
       "date"     : "03/18/2019"
     } ,
@@ -139,7 +139,7 @@
     {
       "title"    : "Jasper Desk - Full Set",
       "tags"     : "Desks",
-      "categories" : "",
+      "categories" : "Starting Bid: $25",
       "url"      : "/Jasper_full_set_2511/",
       "date"     : "03/18/2019"
     } ,
@@ -147,7 +147,7 @@
     {
       "title"    : "Flip Top Tables",
       "tags"     : "Tables",
-      "categories" : "",
+      "categories" : "Starting Bid: $10",
       "url"      : "/Flip_Top_Tables_2340/",
       "date"     : "03/18/2019"
     } ,
@@ -155,7 +155,7 @@
     {
       "title"    : "Credenza",
       "tags"     : "Credenzas",
-      "categories" : "",
+      "categories" : "Starting Bid: $15",
       "url"      : "/Credenza_2340/",
       "date"     : "03/18/2019"
     } ,
@@ -163,15 +163,15 @@
     {
       "title"    : "Conference Room Chairs",
       "tags"     : "Chairs",
-      "categories" : "Starting Bid: $9",
+      "categories" : "Starting Bid: $5",
       "url"      : "/Conference_Chairs_2548/",
       "date"     : "03/18/2019"
     } ,
   
     {
-      "title"    : "Two Door Records Cabinet",
+      "title"    : "Two Door Vertical Cabinet",
       "tags"     : "Filing and Cabinets",
-      "categories" : "",
+      "categories" : "Current Bid: $10",
       "url"      : "/Cabinet_Records/",
       "date"     : "03/18/2019"
     } ,
@@ -179,7 +179,7 @@
     {
       "title"    : "Bookshelf",
       "tags"     : "Shelves",
-      "categories" : "",
+      "categories" : "Starting Bid: $10",
       "url"      : "/Bookshelf_2413/",
       "date"     : "03/18/2019"
     } ,
@@ -187,7 +187,7 @@
     {
       "title"    : "Board Desk Set",
       "tags"     : "Desks",
-      "categories" : "",
+      "categories" : "Current Bid: $25",
       "url"      : "/Board_desk_set_2305/",
       "date"     : "03/18/2019"
     } ,
@@ -195,15 +195,15 @@
     {
       "title"    : "Four Drawer Lateral Filing Cabinet",
       "tags"     : "Filing and Cabinets",
-      "categories" : "",
+      "categories" : "Starting Bid: $10",
       "url"      : "/4_Drawer_Files_Records/",
       "date"     : "03/18/2019"
     } ,
   
     {
-      "title"    : "Dual Drawer Lateral Filing Cabinet",
+      "title"    : "2-Drawer Lateral Filing Cabinet",
       "tags"     : "Filing and Cabinets",
-      "categories" : "",
+      "categories" : "Starting Bid: $5",
       "url"      : "/2_Drawer_Lateral/",
       "date"     : "03/18/2019"
     } 
