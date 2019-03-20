@@ -5,8 +5,8 @@
     <description>Online Furniture Auction</description>
     <link>https://auctions.patchprojects.com/</link>
     <atom:link href="https://auctions.patchprojects.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 19 Mar 2019 09:26:57 -0600</pubDate>
-    <lastBuildDate>Tue, 19 Mar 2019 09:26:57 -0600</lastBuildDate>
+    <pubDate>Wed, 20 Mar 2019 11:30:27 -0600</pubDate>
+    <lastBuildDate>Wed, 20 Mar 2019 11:30:27 -0600</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>
@@ -79,7 +79,7 @@
         <category>Desks</category>
         
         
-        <category>Starting Bid: $25</category>
+        <category>Current Bid: $25</category>
         
       </item>
     
@@ -249,7 +249,7 @@
         <category>Desks</category>
         
         
-        <category>Starting Bid: $25</category>
+        <category>Current Bid: $25</category>
         
       </item>
     
