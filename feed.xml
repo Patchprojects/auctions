@@ -5,8 +5,8 @@
     <description>Online Furniture Auction</description>
     <link>https://auctions.patchprojects.com/</link>
     <atom:link href="https://auctions.patchprojects.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 20 Mar 2019 17:22:05 -0600</pubDate>
-    <lastBuildDate>Wed, 20 Mar 2019 17:22:05 -0600</lastBuildDate>
+    <pubDate>Wed, 20 Mar 2019 19:33:15 -0600</pubDate>
+    <lastBuildDate>Wed, 20 Mar 2019 19:33:15 -0600</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>
@@ -35,7 +35,7 @@
         <category>Cabinets</category>
         
         
-        <category>Starting Bid: $5</category>
+        <category>Current Bid: $10</category>
         
       </item>
     
@@ -135,7 +135,7 @@
         <category>Chairs</category>
         
         
-        <category>Starting Bid: $1</category>
+        <category>Current Bid: $1</category>
         
       </item>
     
@@ -149,7 +149,7 @@
         <category>Shelves</category>
         
         
-        <category>Starting Bid: $10</category>
+        <category>Current Bid: $10</category>
         
       </item>
     
@@ -193,7 +193,7 @@
         <category>Artwork</category>
         
         
-        <category>Current Bid: $10</category>
+        <category>Current Bid: $12</category>
         
       </item>
     
@@ -207,7 +207,7 @@
         <category>Desks</category>
         
         
-        <category>Starting Bid: $25</category>
+        <category>Current Bid: $40</category>
         
       </item>
     
@@ -235,7 +235,7 @@
         <category>Desks</category>
         
         
-        <category>Starting Bid: $20</category>
+        <category>Current Bid: $40</category>
         
       </item>
     
@@ -249,7 +249,7 @@
         <category>Desks</category>
         
         
-        <category>Current Bid: $25</category>
+        <category>Current Bid: $35</category>
         
       </item>
     
@@ -305,7 +305,7 @@
         <category>Chairs</category>
         
         
-        <category>Current Bid: $8</category>
+        <category>Current Bid: $100</category>
         
       </item>
     
@@ -335,7 +335,7 @@
         <category>Shelves</category>
         
         
-        <category>Current Bid: $15</category>
+        <category>Current Bid: $17</category>
         
       </item>
     
@@ -349,7 +349,7 @@
         <category>Desks</category>
         
         
-        <category>Current Bid: $30</category>
+        <category>Current Bid: $35</category>
         
       </item>
     
